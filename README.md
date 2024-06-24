@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### Dataset Preparation
 - Datasets can be in <b>.txt</b> or <b>.csv</b> format.
 - <b>path</b> and <b>transcript</b> columns are compulsory. The <b>path</b> column contains the paths to the stored audio files, depending on the dataset location, which can be either absolute paths or relative paths. The <b>transcript</b> column contains the corresponding transcripts to the audio paths. 
-- Check out my [example files](examples/train_data_examples/) for more information.
+- Check out the [example files](dataset_exemple) for more information.
 * <b>Important:</b> Ignoring these following notes is still OK but can hurt the performance.
     - <strong>Make sure that the transcript contains words only</strong>. Numbers should be converted into words and special characters such as ```r'[,?.!\-;:"“%\'�]'``` are removed by default,  but it can be modified in the [base_dataset.py](base/base_dataset.py) if the transcript is not clean enough. 
     
