@@ -102,7 +102,7 @@ tensorboard --logdir ~/saved/<project_name>
 # specify a port 8080
 tensorboard --logdir ~/saved/<project_name> --port 8080
 ```
-![tensorboard](examples/images/tensorboard.jpeg)
+
 
 
 
