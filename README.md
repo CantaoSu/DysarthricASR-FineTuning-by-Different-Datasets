@@ -94,7 +94,7 @@ python inference.py \
 
 <a name = "logs" ></a>
 ### Logs and Visualization
-The logs during the training will be stored, and you can visualize it using TensorBoard by running this command:
+The logs during the training will be stored, and visualisation is available using TensorBoard by running this command:
 ```
 # specify the <project_name> in config.json
 tensorboard --logdir ~/saved/<project_name>
