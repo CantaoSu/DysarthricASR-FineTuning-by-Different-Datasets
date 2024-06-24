@@ -13,8 +13,6 @@
 
 <a name = "documentation" ></a>
 ### Documentation
-Suppose you need a simple way to fine-tune the Wav2vec 2.0 model for the task of Speech Recognition on your datasets, then you came to the right place.
-</br>
 All documents related to this repo can be found here:
 - [Wav2vec2ForCTC](https://huggingface.co/docs/transformers/model_doc/wav2vec2#transformers.Wav2Vec2ForCTC)
 - [Tutorial](https://huggingface.co/blog/fine-tune-wav2vec2-english)
@@ -30,17 +28,19 @@ All documents related to this repo can be found here:
 ```
 pip install -r requirements.txt
 ```
+<a name = "dataset" ></a>
+### Dataset Preparation
+
 
 <a name = "train" ></a>
 ### Train
-1. Prepare your dataset
+1. Prepare datasets
     - Your dataset can be in <b>.txt</b> or <b>.csv</b> format.
-    - <b>path</b> and <b>transcript</b> columns are compulsory. The <b>path</b> column contains the paths to your stored audio files, depending on your dataset location, it can be either absolute paths or relative paths. The <b>transcript</b> column contains the corresponding transcripts to the audio paths. 
-    - Check out our [example files](examples/train_data_examples/) for more information.
+    - <b>path</b> and <b>transcript</b> columns are compulsory. The <b>path</b> column contains the paths to the stored audio files, depending on the dataset location, which can be either absolute paths or relative paths. The <b>transcript</b> column contains the corresponding transcripts to the audio paths. 
+    - Check out my [example files](examples/train_data_examples/) for more information.
     * <b>Important:</b> Ignoring these following notes is still OK but can hurt the performance.
-        - <strong>Make sure that your transcript contains words only</strong>. Numbers should be converted into words and special characters such as ```r'[,?.!\-;:"“%\'�]'``` are removed by default,  but you can change them in the [base_dataset.py](base/base_dataset.py) if your transcript is not clean enough. 
-        - If your transcript contains special tokens like ```bos_token, eos_token, unk_token (eg: <unk>, [unk],...) or pad_token (eg: <pad>, [pad],...))```. Please specify it in the [config.toml](config.toml) otherwise the Tokenizer can't recognize them.
-2. Configure the [config.toml](config.toml) file: Pay attention to the <b>pretrained_path</b> argument, it loads "facebook/wav2vec2-base" pre-trained model from Facebook by default. If you wish to pre-train wav2vec2 on your dataset, check out this [REPO](https://github.com/khanld/Wav2vec2-Pretraining).
+        - <strong>Make sure that the transcript contains words only</strong>. Numbers should be converted into words and special characters such as ```r'[,?.!\-;:"“%\'�]'``` are removed by default,  but it can be modified in the [base_dataset.py](base/base_dataset.py) if the transcript is not clean enough. 
+2. Configure the [config.toml](config.toml) file: Pay attention to the <b>pretrained_path</b> argument, it loads "facebook/wav2vec2-base" pre-trained model from Facebook by default. 
 3. Run
     - Start training from scratch:
         ```
