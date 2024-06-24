@@ -87,3 +87,4 @@ path = "trainer.trainer.Trainer"
     [trainer.args]
     validation_interval = 500
     save_max_metric_score = false 
+
