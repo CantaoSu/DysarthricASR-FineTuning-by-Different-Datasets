@@ -28,18 +28,19 @@ All documents related to this repo can be found here:
 ```
 pip install -r requirements.txt
 ```
-<a name = "dataset" ></a>
+<a name = "dataset_preparation" ></a>
 ### Dataset Preparation
-
-
+- Datasets can be in <b>.txt</b> or <b>.csv</b> format.
+- <b>path</b> and <b>transcript</b> columns are compulsory. The <b>path</b> column contains the paths to the stored audio files, depending on the dataset location, which can be either absolute paths or relative paths. The <b>transcript</b> column contains the corresponding transcripts to the audio paths. 
+- Check out my [example files](examples/train_data_examples/) for more information.
+* <b>Important:</b> Ignoring these following notes is still OK but can hurt the performance.
+    - <strong>Make sure that the transcript contains words only</strong>. Numbers should be converted into words and special characters such as ```r'[,?.!\-;:"“%\'�]'``` are removed by default,  but it can be modified in the [base_dataset.py](base/base_dataset.py) if the transcript is not clean enough. 
+    
 <a name = "train" ></a>
 ### Train
 1. Prepare datasets
-    - Your dataset can be in <b>.txt</b> or <b>.csv</b> format.
-    - <b>path</b> and <b>transcript</b> columns are compulsory. The <b>path</b> column contains the paths to the stored audio files, depending on the dataset location, which can be either absolute paths or relative paths. The <b>transcript</b> column contains the corresponding transcripts to the audio paths. 
-    - Check out my [example files](examples/train_data_examples/) for more information.
-    * <b>Important:</b> Ignoring these following notes is still OK but can hurt the performance.
-        - <strong>Make sure that the transcript contains words only</strong>. Numbers should be converted into words and special characters such as ```r'[,?.!\-;:"“%\'�]'``` are removed by default,  but it can be modified in the [base_dataset.py](base/base_dataset.py) if the transcript is not clean enough. 
+
+
 2. Configure the [config.toml](config.toml) file: Pay attention to the <b>pretrained_path</b> argument, it loads "facebook/wav2vec2-base" pre-trained model from Facebook by default. 
 3. Run
     - Start training from scratch:
