@@ -4,11 +4,10 @@
 1. [Documentation](#documentation)
 2. [Available Features](#feature)
 3. [Installation](#installation)
-4. [Train](#train)
-5. [Inference](#inference)
-6. [Logs and Visualization](#logs)
-7. [Citation](#citation)
-8. [Vietnamese](#vietnamese)
+4. [Dataset Preparation](#dataset_preparation)
+5. [Train](#train)
+6. [Inference](#inference)
+7. [Logs and Visualization](#logs)
 
 
 <a name = "documentation" ></a>
@@ -105,19 +104,5 @@ tensorboard --logdir ~/saved/<project_name> --port 8080
 ```
 ![tensorboard](examples/images/tensorboard.jpeg)
 
-<a name = "citation" ></a>
-### Citation 
-[![DOI](https://zenodo.org/badge/491468343.svg)](https://zenodo.org/badge/latestdoi/491468343)
-```text
-@software{Duy_Khanh_Finetune_Wav2vec_2_0_2022,
-    author = {Duy Khanh, Le},
-    doi = {10.5281/zenodo.6540979},
-    month = {5},
-    title = {{Finetune Wav2vec 2.0 For Speech Recognition}},
-    url = {https://github.com/khanld/ASR-Wa2vec-Finetune},
-    year = {2022}
-}
-```
-<a name = "vietnamese" ></a>
-### Vietnamese
-Please take a look [here](examples/vietnamese-tutorial) for Vietnamese people who want to train on public datasets like  [VIOS](https://huggingface.co/datasets/vivos), [COMMON VOICE](https://huggingface.co/datasets/mozilla-foundation/common_voice_8_0), [FOSD](https://data.mendeley.com/datasets/k9sxg2twv4/4), and [VLSP](https://vlsp.org.vn/vlsp2020/eval/asr).
+
+
