@@ -1,0 +1,48 @@
+/data/TORGO/dysarthric/F03_2_0037.wav both figures would go higher in later years
+/data/TORGO/dysarthric/F03_1_0087.wav store
+/data/TORGO/dysarthric/F03_1_0145.wav group
+/data/TORGO/dysarthric/F03_1_0126.wav dark
+/data/TORGO/dysarthric/F03_1_0197.wav slay
+/data/TORGO/dysarthric/F03_1_0011.wav she had your docks your dark suit in greasy wash water all year
+/data/TORGO/dysarthric/F03_2_0039.wav hate
+/data/TORGO/dysarthric/F03_1_0036.wav har
+/data/TORGO/dysarthric/F03_3_0211.wav spark
+/data/TORGO/dysarthric/F03_2_0017.wav will robin wear a yellow lily
+/data/TORGO/dysarthric/F03_3_0152.wav dock
+/data/TORGO/dysarthric/F03_3_0094.wav hart
+/data/TORGO/dysarthric/F03_1_0083.wav corn
+/data/TORGO/dysarthric/F03_3_0011.wav nighte
+/data/TORGO/dysarthric/F03_2_0089.wav thile
+/data/TORGO/dysarthric/F03_3_0082.wav those musicians harmoize marveously
+/data/TORGO/dysarthric/F03_1_0051.wav rate
+/data/TORGO/dysarthric/F03_1_0043.wav right
+/data/TORGO/dysarthric/F03_3_0007.wav people who valiued thamselves are lifes winters
+/data/TORGO/dysarthric/F03_1_0056.wav stick
+/data/TORGO/dysarthric/F03_1_0010.wav xor
+/data/TORGO/dysarthric/F03_1_0062.wav rang
+/data/TORGO/dysarthric/F03_1_0163.wav heer
+/data/TORGO/dysarthric/F03_3_0051.wav quart
+/data/TORGO/dysarthric/F03_1_0008.wav traice
+/data/TORGO/dysarthric/F03_3_0066.wav eat
+/data/TORGO/dysarthric/F03_3_0037.wav bread
+/data/TORGO/dysarthric/F03_3_0071.wav tort
+/data/TORGO/dysarthric/F03_1_0195.wav i was conscious all the time
+/data/TORGO/dysarthric/F03_1_0109.wav farm
+/data/TORGO/dysarthric/F03_3_0095.wav part
+/data/TORGO/dysarthric/F03_3_0072.wav bed
+/data/TORGO/dysarthric/F03_3_0036.wav bread
+/data/TORGO/dysarthric/F03_3_0139.wav quart
+/data/TORGO/dysarthric/F03_1_0033.wav weed
+/data/TORGO/dysarthric/F03_2_0072.wav we rod holse horseback to the foarm
+/data/TORGO/dysarthric/F03_1_0148.wav nothing is as offensive as innocence
+/data/TORGO/dysarthric/F03_3_0059.wav traide
+/data/TORGO/dysarthric/F03_3_0167.wav sin
+/data/TORGO/dysarthric/F03_3_0172.wav the way for work can be verlong
+/data/TORGO/dysarthric/F03_1_0127.wav store
+/data/TORGO/dysarthric/F03_1_0034.wav spug
+/data/TORGO/dysarthric/F03_1_0020.wav fair
+/data/TORGO/dysarthric/F03_1_0194.wav i just try to do my best
+/data/TORGO/dysarthric/F03_2_0090.wav basker
+
+Word Error Rate (WER): 0.3557692307692308
+Character Error Rate (CER): 0.15913555992141454

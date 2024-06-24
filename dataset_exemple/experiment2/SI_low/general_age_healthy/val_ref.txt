@@ -1,0 +1,37 @@
+path|transcript
+/data/TORGO/dysarthric/M04_2_0207.wav|pay
+/data/TORGO/dysarthric/M04_2_0068.wav|rake
+/data/TORGO/dysarthric/M04_1_0033.wav|rake
+/data/TORGO/dysarthric/M04_2_0177.wav|root
+/data/TORGO/dysarthric/M04_2_0056.wav|sip
+/data/TORGO/dysarthric/M04_2_0288.wav|this is not a program of socialized medicine
+/data/TORGO/dysarthric/M04_1_0126.wav|alpha
+/data/TORGO/dysarthric/M04_1_0120.wav|giving those who observe him a pronounced feeling of the utmost respect
+/data/TORGO/dysarthric/M04_2_0067.wav|ship
+/data/TORGO/dysarthric/M04_2_0141.wav|bear
+/data/TORGO/dysarthric/M04_2_0278.wav|brawn
+/data/TORGO/dysarthric/M04_1_0054.wav|i can read
+/data/TORGO/dysarthric/M04_2_0217.wav|i feel i can play this weekend
+/data/TORGO/dysarthric/M04_2_0277.wav|brawn
+/data/TORGO/dysarthric/M04_1_0056.wav|sip
+/data/TORGO/dysarthric/M04_1_0111.wav|sip
+/data/TORGO/dysarthric/M04_2_0069.wav|trouble
+/data/TORGO/dysarthric/M04_1_0125.wav|ship
+/data/TORGO/dysarthric/M04_2_0099.wav|alpha
+/data/TORGO/dysarthric/M04_1_0099.wav|we have often urged him to walk more and smoke less
+/data/TORGO/dysarthric/M04_2_0294.wav|park
+/data/TORGO/dysarthric/M04_2_0045.wav|we have often urged him to walk more and smoke less
+/data/TORGO/dysarthric/M04_2_0037.wav|sip
+/data/TORGO/dysarthric/M04_1_0015.wav|sip
+/data/TORGO/dysarthric/M04_2_0173.wav|knot
+/data/TORGO/dysarthric/M04_2_0046.wav|we have often urged him to walk more and smoke less
+/data/TORGO/dysarthric/M04_2_0168.wav|i tried to tell people in the community
+/data/TORGO/dysarthric/M04_2_0035.wav|sip
+/data/TORGO/dysarthric/M04_1_0038.wav|one
+/data/TORGO/dysarthric/M04_1_0053.wav|i can read
+/data/TORGO/dysarthric/M04_2_0082.wav|one
+/data/TORGO/dysarthric/M04_1_0060.wav|park
+/data/TORGO/dysarthric/M04_1_0005.wav|trouble
+/data/TORGO/dysarthric/M04_2_0024.wav|giving those who observe him a pronounced feeling of the utmost respect
+/data/TORGO/dysarthric/M04_2_0030.wav|park
+/data/TORGO/dysarthric/M04_2_0140.wav|bear

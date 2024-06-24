@@ -1,0 +1,1199 @@
+path|transcript
+/data/TORGO/aged_matched_healthy/MC04_2_1008.wav|ache
+/data/TORGO/aged_matched_healthy/MC04_1_0544.wav|Ive kept it with me ever since
+/data/TORGO/aged_matched_healthy/MC04_2_0966.wav|waste
+/data/TORGO/aged_matched_healthy/MC04_2_0869.wav|Begin by trying to speak up more
+/data/TORGO/aged_matched_healthy/MC04_1_0653.wav|mill
+/data/TORGO/aged_matched_healthy/MC04_1_0037.wav|bat
+/data/TORGO/aged_matched_healthy/MC04_1_0314.wav|reek
+/data/TORGO/aged_matched_healthy/MC04_2_0989.wav|Weve done it in the past
+/data/TORGO/aged_matched_healthy/MC04_2_0863.wav|bunch
+/data/TORGO/aged_matched_healthy/MC04_1_0480.wav|up
+/data/TORGO/aged_matched_healthy/MC04_1_0571.wav|muck
+/data/TORGO/aged_matched_healthy/MC04_1_0149.wav|I tried to tell people in the community
+/data/TORGO/aged_matched_healthy/MC04_1_0049.wav|grow
+/data/TORGO/aged_matched_healthy/MC04_1_0197.wav|charlie
+/data/TORGO/aged_matched_healthy/MC04_1_0613.wav|read
+/data/TORGO/aged_matched_healthy/MC04_1_0028.wav|glow
+/data/TORGO/aged_matched_healthy/MC04_2_0867.wav|Chocolate and roses never fail as a romantic gift
+/data/TORGO/aged_matched_healthy/MC04_1_0643.wav|geese
+/data/TORGO/aged_matched_healthy/MC04_1_0498.wav|Only lawyers love millionaires
+/data/TORGO/aged_matched_healthy/MC04_1_0584.wav|meat
+/data/TORGO/aged_matched_healthy/MC04_1_0585.wav|Do they make any money
+/data/TORGO/aged_matched_healthy/MC04_2_0957.wav|Luke
+/data/TORGO/aged_matched_healthy/MC04_2_0992.wav|weep
+/data/TORGO/aged_matched_healthy/MC04_1_0642.wav|We selected places where families will be welcome
+/data/TORGO/aged_matched_healthy/MC04_2_0657.wav|We just didnt look good
+/data/TORGO/aged_matched_healthy/MC04_1_0588.wav|catch
+/data/TORGO/aged_matched_healthy/MC04_1_0268.wav|Before Thursdays exam review every formula
+/data/TORGO/aged_matched_healthy/MC04_2_0949.wav|He took heart and played
+/data/TORGO/aged_matched_healthy/MC04_1_0222.wav|snoop
+/data/TORGO/aged_matched_healthy/MC04_1_0109.wav|yet he still thinks as swiftly as ever
+/data/TORGO/aged_matched_healthy/MC04_2_1011.wav|all
+/data/TORGO/aged_matched_healthy/MC04_1_0644.wav|rise
+/data/TORGO/aged_matched_healthy/MC04_1_0604.wav|forward
+/data/TORGO/aged_matched_healthy/MC04_1_0194.wav|bad
+/data/TORGO/aged_matched_healthy/MC04_2_0802.wav|feet
+/data/TORGO/aged_matched_healthy/MC04_1_0266.wav|side
+/data/TORGO/aged_matched_healthy/MC04_1_0205.wav|boot
+/data/TORGO/aged_matched_healthy/MC04_1_0501.wav|litter
+/data/TORGO/aged_matched_healthy/MC04_1_0434.wav|hand
+/data/TORGO/aged_matched_healthy/MC04_1_0098.wav|Twice each day he plays skillfully and with zest upon our small organ
+/data/TORGO/aged_matched_healthy/MC04_2_0900.wav|pet
+/data/TORGO/aged_matched_healthy/MC04_1_0568.wav|select
+/data/TORGO/aged_matched_healthy/MC04_2_0755.wav|to
+/data/TORGO/aged_matched_healthy/MC04_1_0406.wav|liquor
+/data/TORGO/aged_matched_healthy/MC04_1_0624.wav|air
+/data/TORGO/aged_matched_healthy/MC04_1_0103.wav|know
+/data/TORGO/aged_matched_healthy/MC04_1_0367.wav|leak
+/data/TORGO/aged_matched_healthy/MC04_2_0717.wav|cash
+/data/TORGO/aged_matched_healthy/MC04_2_0836.wav|blend
+/data/TORGO/aged_matched_healthy/MC04_2_0687.wav|see
+/data/TORGO/aged_matched_healthy/MC04_1_0369.wav|zero
+/data/TORGO/aged_matched_healthy/MC04_2_0834.wav|peas
+/data/TORGO/aged_matched_healthy/MC04_1_0067.wav|down
+/data/TORGO/aged_matched_healthy/MC04_2_0964.wav|Continental drift is a geological theory
+/data/TORGO/aged_matched_healthy/MC04_2_0815.wav|reap
+/data/TORGO/aged_matched_healthy/MC04_1_0557.wav|gas
+/data/TORGO/aged_matched_healthy/MC04_2_0744.wav|Catastrophic economic cutbacks neglect the poor
+/data/TORGO/aged_matched_healthy/MC04_2_0701.wav|I dont think its a good idea
+/data/TORGO/aged_matched_healthy/MC04_1_0481.wav|up
+/data/TORGO/aged_matched_healthy/MC04_1_0321.wav|The museum hires musicians every evening
+/data/TORGO/aged_matched_healthy/MC04_1_0462.wav|left
+/data/TORGO/aged_matched_healthy/MC04_1_0518.wav|A quick touchdown resulted
+/data/TORGO/aged_matched_healthy/MC04_1_0391.wav|You want him to do well
+/data/TORGO/aged_matched_healthy/MC04_1_0095.wav|up
+/data/TORGO/aged_matched_healthy/MC04_1_0073.wav|A long flowing beard clings to his chin
+/data/TORGO/aged_matched_healthy/MC04_1_0192.wav|slay
+/data/TORGO/aged_matched_healthy/MC04_1_0302.wav|vat
+/data/TORGO/aged_matched_healthy/MC04_2_0880.wav|Try to work things out
+/data/TORGO/aged_matched_healthy/MC04_1_0087.wav|the
+/data/TORGO/aged_matched_healthy/MC04_1_0130.wav|Jane may earn more money by working hard
+/data/TORGO/aged_matched_healthy/MC04_2_0801.wav|hat
+/data/TORGO/aged_matched_healthy/MC04_2_0854.wav|aid
+/data/TORGO/aged_matched_healthy/MC04_1_0167.wav|One validated acts of school districts
+/data/TORGO/aged_matched_healthy/MC04_1_0048.wav|knew
+/data/TORGO/aged_matched_healthy/MC04_1_0250.wav|yes
+/data/TORGO/aged_matched_healthy/MC04_1_0156.wav|cycle
+/data/TORGO/aged_matched_healthy/MC04_1_0346.wav|We rode horseback to the farm
+/data/TORGO/aged_matched_healthy/MC04_2_0956.wav|hash
+/data/TORGO/aged_matched_healthy/MC04_1_0014.wav|beat
+/data/TORGO/aged_matched_healthy/MC04_1_0605.wav|sight
+/data/TORGO/aged_matched_healthy/MC04_1_0243.wav|sigh
+/data/TORGO/aged_matched_healthy/MC04_1_0366.wav|echo
+/data/TORGO/aged_matched_healthy/MC04_2_0987.wav|It was time to go up myself
+/data/TORGO/aged_matched_healthy/MC04_1_0093.wav|no
+/data/TORGO/aged_matched_healthy/MC04_1_0533.wav|toe
+/data/TORGO/aged_matched_healthy/MC04_1_0552.wav|Only the most accomplished artists obtain popularity
+/data/TORGO/aged_matched_healthy/MC04_1_0392.wav|hand
+/data/TORGO/aged_matched_healthy/MC04_1_0576.wav|goat
+/data/TORGO/aged_matched_healthy/MC04_2_0962.wav|blow
+/data/TORGO/aged_matched_healthy/MC04_2_0960.wav|fork
+/data/TORGO/aged_matched_healthy/MC04_2_0655.wav|beat
+/data/TORGO/aged_matched_healthy/MC04_1_0652.wav|tug
+/data/TORGO/aged_matched_healthy/MC04_1_0046.wav|rave
+/data/TORGO/aged_matched_healthy/MC04_1_0330.wav|no
+/data/TORGO/aged_matched_healthy/MC04_1_0084.wav|You wished to know all about my grandfather
+/data/TORGO/aged_matched_healthy/MC04_1_0083.wav|usually minus several buttons
+/data/TORGO/aged_matched_healthy/MC04_2_0724.wav|They will take a wedding trip later
+/data/TORGO/aged_matched_healthy/MC04_1_0541.wav|coat
+/data/TORGO/aged_matched_healthy/MC04_1_0603.wav|Suddenly my reflexes are gone
+/data/TORGO/aged_matched_healthy/MC04_2_0771.wav|cheer
+/data/TORGO/aged_matched_healthy/MC04_1_0045.wav|warm
+/data/TORGO/aged_matched_healthy/MC04_1_0632.wav|He asked you for a loan
+/data/TORGO/aged_matched_healthy/MC04_2_1018.wav|ink
+/data/TORGO/aged_matched_healthy/MC04_2_0739.wav|timber
+/data/TORGO/aged_matched_healthy/MC04_2_0894.wav|ease
+/data/TORGO/aged_matched_healthy/MC04_2_0760.wav|ape
+/data/TORGO/aged_matched_healthy/MC04_1_0207.wav|briar
+/data/TORGO/aged_matched_healthy/MC04_1_0648.wav|cork
+/data/TORGO/aged_matched_healthy/MC04_2_0688.wav|tender
+/data/TORGO/aged_matched_healthy/MC04_1_0263.wav|When all else fails use force
+/data/TORGO/aged_matched_healthy/MC04_1_0540.wav|The results were very disappointing
+/data/TORGO/aged_matched_healthy/MC04_2_0850.wav|I had no desire to change my ways
+/data/TORGO/aged_matched_healthy/MC04_1_0052.wav|dagger
+/data/TORGO/aged_matched_healthy/MC04_1_0133.wav|forward
+/data/TORGO/aged_matched_healthy/MC04_2_0742.wav|That pickpocket was caught red handed
+/data/TORGO/aged_matched_healthy/MC04_2_0893.wav|bunch
+/data/TORGO/aged_matched_healthy/MC04_1_0382.wav|leak
+/data/TORGO/aged_matched_healthy/MC04_2_0718.wav|zero
+/data/TORGO/aged_matched_healthy/MC04_1_0437.wav|quicker
+/data/TORGO/aged_matched_healthy/MC04_2_0862.wav|He has played very well
+/data/TORGO/aged_matched_healthy/MC04_1_0569.wav|much
+/data/TORGO/aged_matched_healthy/MC04_2_1026.wav|why
+/data/TORGO/aged_matched_healthy/MC04_1_0280.wav|take
+/data/TORGO/aged_matched_healthy/MC04_1_0287.wav|kitten
+/data/TORGO/aged_matched_healthy/MC04_1_0068.wav|knee
+/data/TORGO/aged_matched_healthy/MC04_2_0897.wav|We know we can score
+/data/TORGO/aged_matched_healthy/MC04_1_0553.wav|bread
+/data/TORGO/aged_matched_healthy/MC04_1_0331.wav|pit
+/data/TORGO/aged_matched_healthy/MC04_1_0051.wav|slip
+/data/TORGO/aged_matched_healthy/MC04_1_0493.wav|The wait for work can be very long
+/data/TORGO/aged_matched_healthy/MC04_1_0138.wav|gnaw
+/data/TORGO/aged_matched_healthy/MC04_1_0209.wav|no
+/data/TORGO/aged_matched_healthy/MC04_1_0329.wav|pretty
+/data/TORGO/aged_matched_healthy/MC04_1_0011.wav|yes
+/data/TORGO/aged_matched_healthy/MC04_2_0708.wav|The golfing fathers ruled in his favor
+/data/TORGO/aged_matched_healthy/MC04_1_0419.wav|chip
+/data/TORGO/aged_matched_healthy/MC04_2_0766.wav|beep
+/data/TORGO/aged_matched_healthy/MC04_1_0320.wav|six
+/data/TORGO/aged_matched_healthy/MC04_1_0620.wav|weep
+/data/TORGO/aged_matched_healthy/MC04_1_0008.wav|train
+/data/TORGO/aged_matched_healthy/MC04_2_0680.wav|Mom strongly dislikes appetizers
+/data/TORGO/aged_matched_healthy/MC04_1_0070.wav|lead
+/data/TORGO/aged_matched_healthy/MC04_1_0411.wav|sheet
+/data/TORGO/aged_matched_healthy/MC04_1_0554.wav|sort
+/data/TORGO/aged_matched_healthy/MC04_2_0730.wav|fit
+/data/TORGO/aged_matched_healthy/MC04_1_0186.wav|light
+/data/TORGO/aged_matched_healthy/MC04_2_1001.wav|hid
+/data/TORGO/aged_matched_healthy/MC04_2_0714.wav|sender
+/data/TORGO/aged_matched_healthy/MC04_1_0030.wav|Grandfather likes to be modern in his language
+/data/TORGO/aged_matched_healthy/MC04_1_0477.wav|a
+/data/TORGO/aged_matched_healthy/MC04_2_0866.wav|tile
+/data/TORGO/aged_matched_healthy/MC04_1_0355.wav|bloat
+/data/TORGO/aged_matched_healthy/MC04_2_0899.wav|We talked about the situation
+/data/TORGO/aged_matched_healthy/MC04_1_0469.wav|sand
+/data/TORGO/aged_matched_healthy/MC04_1_0563.wav|rid
+/data/TORGO/aged_matched_healthy/MC04_1_0202.wav|though
+/data/TORGO/aged_matched_healthy/MC04_1_0608.wav|Who knows what youll discover about yourself
+/data/TORGO/aged_matched_healthy/MC04_1_0236.wav|The train approached the depot slowly
+/data/TORGO/aged_matched_healthy/MC04_1_0401.wav|dread
+/data/TORGO/aged_matched_healthy/MC04_1_0426.wav|rest
+/data/TORGO/aged_matched_healthy/MC04_1_0633.wav|old
+/data/TORGO/aged_matched_healthy/MC04_2_0756.wav|leap
+/data/TORGO/aged_matched_healthy/MC04_1_0281.wav|There is a treehouse up above
+/data/TORGO/aged_matched_healthy/MC04_2_0902.wav|hat
+/data/TORGO/aged_matched_healthy/MC04_1_0274.wav|lick
+/data/TORGO/aged_matched_healthy/MC04_2_0958.wav|wise
+/data/TORGO/aged_matched_healthy/MC04_1_0034.wav|store
+/data/TORGO/aged_matched_healthy/MC04_1_0351.wav|lair
+/data/TORGO/aged_matched_healthy/MC04_1_0047.wav|bug
+/data/TORGO/aged_matched_healthy/MC04_1_0139.wav|prior
+/data/TORGO/aged_matched_healthy/MC04_2_0994.wav|short
+/data/TORGO/aged_matched_healthy/MC04_1_0508.wav|dice
+/data/TORGO/aged_matched_healthy/MC04_1_0304.wav|thought
+/data/TORGO/aged_matched_healthy/MC04_2_0816.wav|Any contributions will be greatly appreciated
+/data/TORGO/aged_matched_healthy/MC04_1_0352.wav|darn
+/data/TORGO/aged_matched_healthy/MC04_2_0919.wav|Spring Street is straight ahead
+/data/TORGO/aged_matched_healthy/MC04_2_0887.wav|Even a simple vocabulary contains symbols
+/data/TORGO/aged_matched_healthy/MC04_1_0251.wav|All the big baseball players get traded
+/data/TORGO/aged_matched_healthy/MC04_1_0333.wav|The job provides many benefits
+/data/TORGO/aged_matched_healthy/MC04_1_0195.wav|steer
+/data/TORGO/aged_matched_healthy/MC04_1_0461.wav|rock
+/data/TORGO/aged_matched_healthy/MC04_1_0233.wav|menu
+/data/TORGO/aged_matched_healthy/MC04_1_0565.wav|boot
+/data/TORGO/aged_matched_healthy/MC04_1_0451.wav|fork
+/data/TORGO/aged_matched_healthy/MC04_1_0614.wav|shed
+/data/TORGO/aged_matched_healthy/MC04_1_0519.wav|beat
+/data/TORGO/aged_matched_healthy/MC04_1_0490.wav|in
+/data/TORGO/aged_matched_healthy/MC04_1_0246.wav|Their house is grey and white
+/data/TORGO/aged_matched_healthy/MC04_1_0513.wav|shred
+/data/TORGO/aged_matched_healthy/MC04_2_0811.wav|racks
+/data/TORGO/aged_matched_healthy/MC04_2_1009.wav|ball
+/data/TORGO/aged_matched_healthy/MC04_2_0676.wav|hail
+/data/TORGO/aged_matched_healthy/MC04_1_0602.wav|Suddenly my reflexes are gone
+/data/TORGO/aged_matched_healthy/MC04_1_0378.wav|I expect well bounce back this week
+/data/TORGO/aged_matched_healthy/MC04_1_0137.wav|slip
+/data/TORGO/aged_matched_healthy/MC04_1_0423.wav|meat
+/data/TORGO/aged_matched_healthy/MC04_1_0036.wav|The quick brown fox jumps over the lazy dog
+/data/TORGO/aged_matched_healthy/MC04_2_0784.wav|sake
+/data/TORGO/aged_matched_healthy/MC04_1_0395.wav|red
+/data/TORGO/aged_matched_healthy/MC04_2_0829.wav|feet
+/data/TORGO/aged_matched_healthy/MC04_2_0656.wav|beat
+/data/TORGO/aged_matched_healthy/MC04_1_0111.wav|bit
+/data/TORGO/aged_matched_healthy/MC04_1_0254.wav|loop
+/data/TORGO/aged_matched_healthy/MC04_2_0668.wav|Elderly people are often excluded
+/data/TORGO/aged_matched_healthy/MC04_1_0152.wav|My sister made the flowered curtains
+/data/TORGO/aged_matched_healthy/MC04_1_0381.wav|A roll of wire lay near the wall
+/data/TORGO/aged_matched_healthy/MC04_1_0532.wav|ray
+/data/TORGO/aged_matched_healthy/MC04_2_0983.wav|The store serves meals every day
+/data/TORGO/aged_matched_healthy/MC04_2_0896.wav|is
+/data/TORGO/aged_matched_healthy/MC04_1_0286.wav|sigh
+/data/TORGO/aged_matched_healthy/MC04_1_0332.wav|fat
+/data/TORGO/aged_matched_healthy/MC04_2_0972.wav|rise
+/data/TORGO/aged_matched_healthy/MC04_2_0772.wav|The marriage went well from the start
+/data/TORGO/aged_matched_healthy/MC04_1_0630.wav|blend
+/data/TORGO/aged_matched_healthy/MC04_2_0775.wav|The legislature met to judge the state of public education
+/data/TORGO/aged_matched_healthy/MC04_2_0738.wav|geese
+/data/TORGO/aged_matched_healthy/MC04_1_0354.wav|blow
+/data/TORGO/aged_matched_healthy/MC04_2_0670.wav|reap
+/data/TORGO/aged_matched_healthy/MC04_2_0872.wav|hail
+/data/TORGO/aged_matched_healthy/MC04_2_0955.wav|Were all disappointed with our start
+/data/TORGO/aged_matched_healthy/MC04_1_0471.wav|Most young rise early every morning
+/data/TORGO/aged_matched_healthy/MC04_1_0163.wav|air
+/data/TORGO/aged_matched_healthy/MC04_1_0319.wav|him
+/data/TORGO/aged_matched_healthy/MC04_2_0853.wav|air
+/data/TORGO/aged_matched_healthy/MC04_2_0943.wav|tail
+/data/TORGO/aged_matched_healthy/MC04_1_0539.wav|There is definitely some ligament damage in his knee
+/data/TORGO/aged_matched_healthy/MC04_1_0323.wav|cart
+/data/TORGO/aged_matched_healthy/MC04_1_0094.wav|he slowly takes a short walk in the open air each day
+/data/TORGO/aged_matched_healthy/MC04_2_0675.wav|forks
+/data/TORGO/aged_matched_healthy/MC04_2_0789.wav|The lack of heat compounded the tenants grievances
+/data/TORGO/aged_matched_healthy/MC04_2_0713.wav|lender
+/data/TORGO/aged_matched_healthy/MC04_2_0725.wav|two
+/data/TORGO/aged_matched_healthy/MC04_1_0564.wav|I think Im full of this stuff
+/data/TORGO/aged_matched_healthy/MC04_1_0082.wav|bubble
+/data/TORGO/aged_matched_healthy/MC04_2_0995.wav|sink
+/data/TORGO/aged_matched_healthy/MC04_2_0922.wav|He noted the fact carefully
+/data/TORGO/aged_matched_healthy/MC04_1_0297.wav|spit
+/data/TORGO/aged_matched_healthy/MC04_1_0340.wav|Night after night they received annoying phone calls
+/data/TORGO/aged_matched_healthy/MC04_2_0720.wav|Ambidextrous pickpockets accomplish more
+/data/TORGO/aged_matched_healthy/MC04_1_0294.wav|harp
+/data/TORGO/aged_matched_healthy/MC04_2_0731.wav|A fire in straw makes a quick blaze
+/data/TORGO/aged_matched_healthy/MC04_2_0967.wav|hail
+/data/TORGO/aged_matched_healthy/MC04_1_0279.wav|seed
+/data/TORGO/aged_matched_healthy/MC04_1_0006.wav|swarm
+/data/TORGO/aged_matched_healthy/MC04_1_0328.wav|start
+/data/TORGO/aged_matched_healthy/MC04_1_0494.wav|He took me out one day
+/data/TORGO/aged_matched_healthy/MC04_1_0397.wav|tango
+/data/TORGO/aged_matched_healthy/MC04_2_0973.wav|He cant abide mistakes in his own game
+/data/TORGO/aged_matched_healthy/MC04_1_0053.wav|knew
+/data/TORGO/aged_matched_healthy/MC04_1_0027.wav|When he speaks his voice is just a bit cracked and quivers a trifle
+/data/TORGO/aged_matched_healthy/MC04_1_0550.wav|side
+/data/TORGO/aged_matched_healthy/MC04_1_0025.wav|range
+/data/TORGO/aged_matched_healthy/MC04_2_1013.wav|that
+/data/TORGO/aged_matched_healthy/MC04_1_0424.wav|Get a calico cat to keep
+/data/TORGO/aged_matched_healthy/MC04_2_0704.wav|At twilight on the twelfth day well have Chablis
+/data/TORGO/aged_matched_healthy/MC04_1_0201.wav|rock
+/data/TORGO/aged_matched_healthy/MC04_1_0353.wav|quebec
+/data/TORGO/aged_matched_healthy/MC04_2_0711.wav|six
+/data/TORGO/aged_matched_healthy/MC04_1_0178.wav|Mother sews yellow gingham aprons
+/data/TORGO/aged_matched_healthy/MC04_1_0054.wav|swore
+/data/TORGO/aged_matched_healthy/MC04_1_0448.wav|slicker
+/data/TORGO/aged_matched_healthy/MC04_1_0291.wav|Swing your arm as high as you can
+/data/TORGO/aged_matched_healthy/MC04_1_0607.wav|ride
+/data/TORGO/aged_matched_healthy/MC04_2_0759.wav|feed
+/data/TORGO/aged_matched_healthy/MC04_1_0456.wav|uniform
+/data/TORGO/aged_matched_healthy/MC04_1_0318.wav|Alimony harms a divorced mans wealth
+/data/TORGO/aged_matched_healthy/MC04_2_0710.wav|guess
+/data/TORGO/aged_matched_healthy/MC04_2_0699.wav|meat
+/data/TORGO/aged_matched_healthy/MC04_1_0621.wav|Young people participate in athletic activities
+/data/TORGO/aged_matched_healthy/MC04_2_0683.wav|Grandmother outgrew her upbringing in petticoats
+/data/TORGO/aged_matched_healthy/MC04_2_0703.wav|ember
+/data/TORGO/aged_matched_healthy/MC04_2_0917.wav|pad
+/data/TORGO/aged_matched_healthy/MC04_2_0895.wav|fell
+/data/TORGO/aged_matched_healthy/MC04_2_0769.wav|knife
+/data/TORGO/aged_matched_healthy/MC04_1_0344.wav|The box contained three sweaters
+/data/TORGO/aged_matched_healthy/MC04_2_0923.wav|sink
+/data/TORGO/aged_matched_healthy/MC04_1_0486.wav|Its fun to roast marshmallows on a gas burner
+/data/TORGO/aged_matched_healthy/MC04_1_0069.wav|pat
+/data/TORGO/aged_matched_healthy/MC04_1_0444.wav|Did dad do academic bidding
+/data/TORGO/aged_matched_healthy/MC04_1_0600.wav|The fish swam across the pond
+/data/TORGO/aged_matched_healthy/MC04_1_0160.wav|sigh
+/data/TORGO/aged_matched_healthy/MC04_2_0839.wav|Hell sell them by the box
+/data/TORGO/aged_matched_healthy/MC04_1_0598.wav|sew
+/data/TORGO/aged_matched_healthy/MC04_1_0125.wav|Youre used to being on the field
+/data/TORGO/aged_matched_healthy/MC04_2_0794.wav|duck
+/data/TORGO/aged_matched_healthy/MC04_1_0625.wav|He played basketball there while working toward a law degree
+/data/TORGO/aged_matched_healthy/MC04_1_0241.wav|whoop
+/data/TORGO/aged_matched_healthy/MC04_2_0835.wav|The singers finger had a splinter
+/data/TORGO/aged_matched_healthy/MC04_1_0142.wav|pat
+/data/TORGO/aged_matched_healthy/MC04_1_0122.wav|meat
+/data/TORGO/aged_matched_healthy/MC04_1_0225.wav|Everything went real smooth the sheriff said
+/data/TORGO/aged_matched_healthy/MC04_1_0551.wav|four
+/data/TORGO/aged_matched_healthy/MC04_2_0921.wav|hall
+/data/TORGO/aged_matched_healthy/MC04_2_0679.wav|Yet he remains the fiercest of competitors
+/data/TORGO/aged_matched_healthy/MC04_2_1027.wav|tall
+/data/TORGO/aged_matched_healthy/MC04_1_0616.wav|bill
+/data/TORGO/aged_matched_healthy/MC04_2_0841.wav|seat
+/data/TORGO/aged_matched_healthy/MC04_1_0282.wav|sergeant
+/data/TORGO/aged_matched_healthy/MC04_1_0301.wav|top
+/data/TORGO/aged_matched_healthy/MC04_2_0763.wav|tail
+/data/TORGO/aged_matched_healthy/MC04_1_0599.wav|Stimulating discussions keep students attention
+/data/TORGO/aged_matched_healthy/MC04_2_0845.wav|cheese
+/data/TORGO/aged_matched_healthy/MC04_1_0516.wav|reap
+/data/TORGO/aged_matched_healthy/MC04_2_0970.wav|term
+/data/TORGO/aged_matched_healthy/MC04_1_0593.wav|lee
+/data/TORGO/aged_matched_healthy/MC04_1_0459.wav|flicker
+/data/TORGO/aged_matched_healthy/MC04_2_0697.wav|We have a big house
+/data/TORGO/aged_matched_healthy/MC04_2_0952.wav|pat
+/data/TORGO/aged_matched_healthy/MC04_2_0910.wav|Porcupines resemble sea urchins
+/data/TORGO/aged_matched_healthy/MC04_2_0913.wav|The new highway is straight and empty
+/data/TORGO/aged_matched_healthy/MC04_1_0079.wav|share
+/data/TORGO/aged_matched_healthy/MC04_2_0858.wav|low
+/data/TORGO/aged_matched_healthy/MC04_2_0844.wav|Be prepared for odd behavior from friends
+/data/TORGO/aged_matched_healthy/MC04_1_0414.wav|nice
+/data/TORGO/aged_matched_healthy/MC04_1_0431.wav|sing
+/data/TORGO/aged_matched_healthy/MC04_1_0180.wav|I just try to do my best
+/data/TORGO/aged_matched_healthy/MC04_2_0924.wav|pink
+/data/TORGO/aged_matched_healthy/MC04_1_0229.wav|I scrubbed the floors thoroughly
+/data/TORGO/aged_matched_healthy/MC04_1_0439.wav|The prospect of cutting back spending is an unpleasant one for any governor
+/data/TORGO/aged_matched_healthy/MC04_1_0235.wav|pad
+/data/TORGO/aged_matched_healthy/MC04_2_0786.wav|Look for pockets of black sand
+/data/TORGO/aged_matched_healthy/MC04_1_0594.wav|leak
+/data/TORGO/aged_matched_healthy/MC04_1_0634.wav|cash
+/data/TORGO/aged_matched_healthy/MC04_1_0029.wav|fee
+/data/TORGO/aged_matched_healthy/MC04_2_1015.wav|seed
+/data/TORGO/aged_matched_healthy/MC04_2_0982.wav|hat
+/data/TORGO/aged_matched_healthy/MC04_2_0785.wav|We are the largest of the four states
+/data/TORGO/aged_matched_healthy/MC04_1_0085.wav|rate
+/data/TORGO/aged_matched_healthy/MC04_2_0719.wav|I loved every minute of it
+/data/TORGO/aged_matched_healthy/MC04_1_0650.wav|sew
+/data/TORGO/aged_matched_healthy/MC04_1_0016.wav|but he always answers Banana oil
+/data/TORGO/aged_matched_healthy/MC04_1_0528.wav|cake
+/data/TORGO/aged_matched_healthy/MC04_1_0325.wav|Carl lives in a lively home
+/data/TORGO/aged_matched_healthy/MC04_1_0062.wav|car
+/data/TORGO/aged_matched_healthy/MC04_1_0510.wav|Biblical scholars argue history
+/data/TORGO/aged_matched_healthy/MC04_1_0240.wav|Youd be better off taking a cold shower
+/data/TORGO/aged_matched_healthy/MC04_1_0043.wav|tip
+/data/TORGO/aged_matched_healthy/MC04_2_0827.wav|leak
+/data/TORGO/aged_matched_healthy/MC04_1_0042.wav|warm
+/data/TORGO/aged_matched_healthy/MC04_1_0651.wav|Thats what life is really all about
+/data/TORGO/aged_matched_healthy/MC04_2_0931.wav|We knew we werent doing well
+/data/TORGO/aged_matched_healthy/MC04_1_0421.wav|People who value themselves are lifes winners
+/data/TORGO/aged_matched_healthy/MC04_1_0078.wav|read
+/data/TORGO/aged_matched_healthy/MC04_1_0441.wav|A good attitude is unbeatable
+/data/TORGO/aged_matched_healthy/MC04_1_0427.wav|said
+/data/TORGO/aged_matched_healthy/MC04_2_0696.wav|she
+/data/TORGO/aged_matched_healthy/MC04_1_0309.wav|sign
+/data/TORGO/aged_matched_healthy/MC04_2_0857.wav|tile
+/data/TORGO/aged_matched_healthy/MC04_1_0405.wav|Some hotels are available nearby
+/data/TORGO/aged_matched_healthy/MC04_2_0928.wav|bow
+/data/TORGO/aged_matched_healthy/MC04_1_0473.wav|Ned
+/data/TORGO/aged_matched_healthy/MC04_1_0242.wav|explore
+/data/TORGO/aged_matched_healthy/MC04_2_0793.wav|lip
+/data/TORGO/aged_matched_healthy/MC04_2_0935.wav|It was a huge part of my life
+/data/TORGO/aged_matched_healthy/MC04_2_0694.wav|five
+/data/TORGO/aged_matched_healthy/MC04_1_0031.wav|Except in the winter when the ooze or snow or ice prevents
+/data/TORGO/aged_matched_healthy/MC04_1_0398.wav|nod
+/data/TORGO/aged_matched_healthy/MC04_1_0258.wav|The books are very expensive
+/data/TORGO/aged_matched_healthy/MC04_1_0021.wav|chair
+/data/TORGO/aged_matched_healthy/MC04_2_0848.wav|rakes
+/data/TORGO/aged_matched_healthy/MC04_2_0806.wav|ease
+/data/TORGO/aged_matched_healthy/MC04_1_0343.wav|seven
+/data/TORGO/aged_matched_healthy/MC04_1_0196.wav|I looked up and noticed two old men
+/data/TORGO/aged_matched_healthy/MC04_1_0567.wav|lend
+/data/TORGO/aged_matched_healthy/MC04_1_0310.wav|Day after day some new episode is reported
+/data/TORGO/aged_matched_healthy/MC04_1_0517.wav|steak
+/data/TORGO/aged_matched_healthy/MC04_2_0977.wav|cork
+/data/TORGO/aged_matched_healthy/MC04_1_0460.wav|sit
+/data/TORGO/aged_matched_healthy/MC04_1_0306.wav|thorn
+/data/TORGO/aged_matched_healthy/MC04_1_0126.wav|Two other cases also were under advisement
+/data/TORGO/aged_matched_healthy/MC04_2_0874.wav|pat
+/data/TORGO/aged_matched_healthy/MC04_1_0110.wav|beat
+/data/TORGO/aged_matched_healthy/MC04_1_0270.wav|cake
+/data/TORGO/aged_matched_healthy/MC04_1_0597.wav|dead
+/data/TORGO/aged_matched_healthy/MC04_1_0230.wav|three
+/data/TORGO/aged_matched_healthy/MC04_2_0930.wav|burn
+/data/TORGO/aged_matched_healthy/MC04_1_0654.wav|port
+/data/TORGO/aged_matched_healthy/MC04_1_0154.wav|Bright sunshine shimmers on the ocean
+/data/TORGO/aged_matched_healthy/MC04_1_0645.wav|bill
+/data/TORGO/aged_matched_healthy/MC04_1_0285.wav|foxtrot
+/data/TORGO/aged_matched_healthy/MC04_2_0890.wav|This he added brought about petty jealousies and petty personal grievances
+/data/TORGO/aged_matched_healthy/MC04_1_0169.wav|shoot
+/data/TORGO/aged_matched_healthy/MC04_2_0903.wav|We shelled clams for the chowder
+/data/TORGO/aged_matched_healthy/MC04_2_0826.wav|hatch
+/data/TORGO/aged_matched_healthy/MC04_2_0681.wav|bumper
+/data/TORGO/aged_matched_healthy/MC04_1_0525.wav|sew
+/data/TORGO/aged_matched_healthy/MC04_1_0402.wav|Those musicians harmonize marvelously
+/data/TORGO/aged_matched_healthy/MC04_2_1005.wav|feed
+/data/TORGO/aged_matched_healthy/MC04_1_0224.wav|slip
+/data/TORGO/aged_matched_healthy/MC04_2_0712.wav|beef
+/data/TORGO/aged_matched_healthy/MC04_1_0005.wav|jacket
+/data/TORGO/aged_matched_healthy/MC04_1_0296.wav|and
+/data/TORGO/aged_matched_healthy/MC04_1_0403.wav|down
+/data/TORGO/aged_matched_healthy/MC04_1_0022.wav|chair
+/data/TORGO/aged_matched_healthy/MC04_2_0906.wav|dock
+/data/TORGO/aged_matched_healthy/MC04_1_0341.wav|juliet
+/data/TORGO/aged_matched_healthy/MC04_1_0317.wav|It was a good win for us
+/data/TORGO/aged_matched_healthy/MC04_1_0221.wav|fate
+/data/TORGO/aged_matched_healthy/MC04_1_0342.wav|bitten
+/data/TORGO/aged_matched_healthy/MC04_1_0057.wav|dark
+/data/TORGO/aged_matched_healthy/MC04_2_0733.wav|She suggested we all have dinner together
+/data/TORGO/aged_matched_healthy/MC04_2_0998.wav|There is such a program
+/data/TORGO/aged_matched_healthy/MC04_1_0429.wav|Im willing to experiment for the first time
+/data/TORGO/aged_matched_healthy/MC04_2_0779.wav|ate
+/data/TORGO/aged_matched_healthy/MC04_1_0120.wav|horn
+/data/TORGO/aged_matched_healthy/MC04_2_1010.wav|Both cars were slightly damaged
+/data/TORGO/aged_matched_healthy/MC04_1_0146.wav|galore
+/data/TORGO/aged_matched_healthy/MC04_1_0259.wav|bit
+/data/TORGO/aged_matched_healthy/MC04_1_0172.wav|here
+/data/TORGO/aged_matched_healthy/MC04_2_0851.wav|aches
+/data/TORGO/aged_matched_healthy/MC04_1_0162.wav|white
+/data/TORGO/aged_matched_healthy/MC04_2_0881.wav|pat
+/data/TORGO/aged_matched_healthy/MC04_1_0249.wav|If you destroy confidence in banks you do something to the economy he said
+/data/TORGO/aged_matched_healthy/MC04_1_0362.wav|mitten
+/data/TORGO/aged_matched_healthy/MC04_2_0904.wav|rise
+/data/TORGO/aged_matched_healthy/MC04_2_0685.wav|food
+/data/TORGO/aged_matched_healthy/MC04_1_0467.wav|Travel is about the only leisure we have
+/data/TORGO/aged_matched_healthy/MC04_1_0088.wav|beta
+/data/TORGO/aged_matched_healthy/MC04_2_0807.wav|full
+/data/TORGO/aged_matched_healthy/MC04_1_0245.wav|They carried me off on the stretcher
+/data/TORGO/aged_matched_healthy/MC04_2_0937.wav|dash
+/data/TORGO/aged_matched_healthy/MC04_2_0692.wav|nine
+/data/TORGO/aged_matched_healthy/MC04_2_0741.wav|That pickpocket was caught red handed
+/data/TORGO/aged_matched_healthy/MC04_2_0747.wav|Her dark hair is combed casually
+/data/TORGO/aged_matched_healthy/MC04_1_0410.wav|best
+/data/TORGO/aged_matched_healthy/MC04_1_0623.wav|in
+/data/TORGO/aged_matched_healthy/MC04_2_0722.wav|dock
+/data/TORGO/aged_matched_healthy/MC04_1_0024.wav|trait
+/data/TORGO/aged_matched_healthy/MC04_2_0990.wav|cold
+/data/TORGO/aged_matched_healthy/MC04_2_0873.wav|charm
+/data/TORGO/aged_matched_healthy/MC04_1_0609.wav|heat
+/data/TORGO/aged_matched_healthy/MC04_1_0376.wav|hem
+/data/TORGO/aged_matched_healthy/MC04_1_0326.wav|Aluminum silverware can often be flimsy
+/data/TORGO/aged_matched_healthy/MC04_1_0348.wav|leak
+/data/TORGO/aged_matched_healthy/MC04_2_0787.wav|leaks
+/data/TORGO/aged_matched_healthy/MC04_2_0908.wav|weave
+/data/TORGO/aged_matched_healthy/MC04_1_0300.wav|hitting
+/data/TORGO/aged_matched_healthy/MC04_1_0275.wav|hotel
+/data/TORGO/aged_matched_healthy/MC04_1_0453.wav|The hotel owner shrugged
+/data/TORGO/aged_matched_healthy/MC04_2_0979.wav|dock
+/data/TORGO/aged_matched_healthy/MC04_2_0842.wav|is
+/data/TORGO/aged_matched_healthy/MC04_2_0959.wav|Handle it any way you have to
+/data/TORGO/aged_matched_healthy/MC04_2_0778.wav|hash
+/data/TORGO/aged_matched_healthy/MC04_2_0843.wav|mile
+/data/TORGO/aged_matched_healthy/MC04_2_0824.wav|lit
+/data/TORGO/aged_matched_healthy/MC04_1_0261.wav|pitting
+/data/TORGO/aged_matched_healthy/MC04_1_0350.wav|lima
+/data/TORGO/aged_matched_healthy/MC04_1_0509.wav|neat
+/data/TORGO/aged_matched_healthy/MC04_1_0175.wav|toot
+/data/TORGO/aged_matched_healthy/MC04_1_0171.wav|rocks
+/data/TORGO/aged_matched_healthy/MC04_1_0531.wav|threat
+/data/TORGO/aged_matched_healthy/MC04_1_0148.wav|The islands are sparsely populated
+/data/TORGO/aged_matched_healthy/MC04_1_0428.wav|zip
+/data/TORGO/aged_matched_healthy/MC04_1_0312.wav|golf
+/data/TORGO/aged_matched_healthy/MC04_1_0147.wav|cheer
+/data/TORGO/aged_matched_healthy/MC04_1_0559.wav|shop
+/data/TORGO/aged_matched_healthy/MC04_2_0671.wav|I also can be quite vocal
+/data/TORGO/aged_matched_healthy/MC04_2_0905.wav|chap
+/data/TORGO/aged_matched_healthy/MC04_1_0474.wav|glitter
+/data/TORGO/aged_matched_healthy/MC04_1_0334.wav|barn
+/data/TORGO/aged_matched_healthy/MC04_1_0534.wav|Etiquette mandates compliance with existing regulations
+/data/TORGO/aged_matched_healthy/MC04_1_0555.wav|dread
+/data/TORGO/aged_matched_healthy/MC04_2_0782.wav|lax
+/data/TORGO/aged_matched_healthy/MC04_2_0870.wav|The structures housing the apartments are of masonry and frame construction
+/data/TORGO/aged_matched_healthy/MC04_1_0601.wav|pork
+/data/TORGO/aged_matched_healthy/MC04_2_1012.wav|horn
+/data/TORGO/aged_matched_healthy/MC04_2_0813.wav|Have no fear if you come alone
+/data/TORGO/aged_matched_healthy/MC04_1_0128.wav|hear
+/data/TORGO/aged_matched_healthy/MC04_2_0907.wav|harm
+/data/TORGO/aged_matched_healthy/MC04_1_0538.wav|geese
+/data/TORGO/aged_matched_healthy/MC04_2_0996.wav|We got drenched from the uninterrupted rain
+/data/TORGO/aged_matched_healthy/MC04_1_0112.wav|race
+/data/TORGO/aged_matched_healthy/MC04_1_0174.wav|lip
+/data/TORGO/aged_matched_healthy/MC04_2_0965.wav|pant
+/data/TORGO/aged_matched_healthy/MC04_1_0091.wav|floor
+/data/TORGO/aged_matched_healthy/MC04_1_0455.wav|White capped waves covered the entire bay
+/data/TORGO/aged_matched_healthy/MC04_1_0606.wav|shoot
+/data/TORGO/aged_matched_healthy/MC04_2_0934.wav|harm
+/data/TORGO/aged_matched_healthy/MC04_2_0673.wav|Addition and subtraction are learned skills
+/data/TORGO/aged_matched_healthy/MC04_2_0774.wav|punch
+/data/TORGO/aged_matched_healthy/MC04_1_0299.wav|He further proposed grants of an unspecified sum for experimental hospitals
+/data/TORGO/aged_matched_healthy/MC04_2_0984.wav|had
+/data/TORGO/aged_matched_healthy/MC04_1_0153.wav|thigh
+/data/TORGO/aged_matched_healthy/MC04_1_0383.wav|She wore warm fleecy woolen overalls
+/data/TORGO/aged_matched_healthy/MC04_1_0248.wav|jungle
+/data/TORGO/aged_matched_healthy/MC04_1_0077.wav|left
+/data/TORGO/aged_matched_healthy/MC04_1_0542.wav|said
+/data/TORGO/aged_matched_healthy/MC04_1_0435.wav|four
+/data/TORGO/aged_matched_healthy/MC04_1_0489.wav|wicked
+/data/TORGO/aged_matched_healthy/MC04_1_0010.wav|stubble
+/data/TORGO/aged_matched_healthy/MC04_1_0512.wav|wise
+/data/TORGO/aged_matched_healthy/MC04_1_0450.wav|bread
+/data/TORGO/aged_matched_healthy/MC04_1_0151.wav|sprinkle
+/data/TORGO/aged_matched_healthy/MC04_1_0356.wav|spain
+/data/TORGO/aged_matched_healthy/MC04_1_0191.wav|sleep
+/data/TORGO/aged_matched_healthy/MC04_1_0141.wav|delta
+/data/TORGO/aged_matched_healthy/MC04_1_0379.wav|papa
+/data/TORGO/aged_matched_healthy/MC04_1_0384.wav|dark
+/data/TORGO/aged_matched_healthy/MC04_1_0335.wav|It also provides for funds to clear slums and help colleges build dormitories
+/data/TORGO/aged_matched_healthy/MC04_1_0560.wav|menu
+/data/TORGO/aged_matched_healthy/MC04_1_0298.wav|hark
+/data/TORGO/aged_matched_healthy/MC04_2_0804.wav|There was no confirmation of such massive assaults from independent sources
+/data/TORGO/aged_matched_healthy/MC04_2_1003.wav|bad
+/data/TORGO/aged_matched_healthy/MC04_1_0359.wav|brought
+/data/TORGO/aged_matched_healthy/MC04_1_0491.wav|Nobody really expects to evacuate
+/data/TORGO/aged_matched_healthy/MC04_1_0044.wav|feed
+/data/TORGO/aged_matched_healthy/MC04_1_0276.wav|city
+/data/TORGO/aged_matched_healthy/MC04_2_0776.wav|sheet
+/data/TORGO/aged_matched_healthy/MC04_2_0947.wav|eyes
+/data/TORGO/aged_matched_healthy/MC04_1_0253.wav|The humidity is overwhelming there
+/data/TORGO/aged_matched_healthy/MC04_1_0591.wav|blend
+/data/TORGO/aged_matched_healthy/MC04_1_0520.wav|cheer
+/data/TORGO/aged_matched_healthy/MC04_2_0975.wav|low
+/data/TORGO/aged_matched_healthy/MC04_1_0524.wav|three
+/data/TORGO/aged_matched_healthy/MC04_2_0944.wav|When you are through write a clean report
+/data/TORGO/aged_matched_healthy/MC04_1_0458.wav|rock
+/data/TORGO/aged_matched_healthy/MC04_1_0464.wav|sierra
+/data/TORGO/aged_matched_healthy/MC04_1_0628.wav|snort
+/data/TORGO/aged_matched_healthy/MC04_1_0374.wav|pit
+/data/TORGO/aged_matched_healthy/MC04_1_0182.wav|witch
+/data/TORGO/aged_matched_healthy/MC04_1_0023.wav|She had your dark suit in greasy wash water all year
+/data/TORGO/aged_matched_healthy/MC04_2_0980.wav|leak
+/data/TORGO/aged_matched_healthy/MC04_1_0586.wav|I called two different painters
+/data/TORGO/aged_matched_healthy/MC04_1_0203.wav|fear
+/data/TORGO/aged_matched_healthy/MC04_1_0385.wav|hum
+/data/TORGO/aged_matched_healthy/MC04_2_0743.wav|Her position covers a number of daily tasks common to any social director
+/data/TORGO/aged_matched_healthy/MC04_1_0338.wav|Alfalfa is healthy for you
+/data/TORGO/aged_matched_healthy/MC04_1_0442.wav|bitter
+/data/TORGO/aged_matched_healthy/MC04_1_0265.wav|If you are losing water replace it immediately
+/data/TORGO/aged_matched_healthy/MC04_1_0227.wav|She is thinner than I am
+/data/TORGO/aged_matched_healthy/MC04_1_0345.wav|knitting
+/data/TORGO/aged_matched_healthy/MC04_1_0013.wav|born
+/data/TORGO/aged_matched_healthy/MC04_1_0170.wav|Just one side got wet
+/data/TORGO/aged_matched_healthy/MC04_2_0833.wav|I wanted to be an actress
+/data/TORGO/aged_matched_healthy/MC04_2_0929.wav|Regular attendance is seldom required
+/data/TORGO/aged_matched_healthy/MC04_2_0686.wav|Pete
+/data/TORGO/aged_matched_healthy/MC04_2_0847.wav|see
+/data/TORGO/aged_matched_healthy/MC04_1_0590.wav|There was only one decision to be made
+/data/TORGO/aged_matched_healthy/MC04_2_0939.wav|tip
+/data/TORGO/aged_matched_healthy/MC04_2_0940.wav|was
+/data/TORGO/aged_matched_healthy/MC04_1_0252.wav|were
+/data/TORGO/aged_matched_healthy/MC04_1_0198.wav|knew
+/data/TORGO/aged_matched_healthy/MC04_1_0483.wav|witch
+/data/TORGO/aged_matched_healthy/MC04_1_0072.wav|he dresses himself in an ancient black frock coat
+/data/TORGO/aged_matched_healthy/MC04_2_0790.wav|dial
+/data/TORGO/aged_matched_healthy/MC04_2_0852.wav|Now Im living exactly as I choose
+/data/TORGO/aged_matched_healthy/MC04_1_0503.wav|Being able to dance can help too
+/data/TORGO/aged_matched_healthy/MC04_2_0805.wav|Academic aptitude guarantees your diploma
+/data/TORGO/aged_matched_healthy/MC04_1_0649.wav|quart
+/data/TORGO/aged_matched_healthy/MC04_1_0422.wav|no
+/data/TORGO/aged_matched_healthy/MC04_2_0773.wav|six
+/data/TORGO/aged_matched_healthy/MC04_2_1014.wav|win
+/data/TORGO/aged_matched_healthy/MC04_1_0492.wav|sicker
+/data/TORGO/aged_matched_healthy/MC04_1_0561.wav|snake
+/data/TORGO/aged_matched_healthy/MC04_2_0678.wav|reef
+/data/TORGO/aged_matched_healthy/MC04_1_0526.wav|bill
+/data/TORGO/aged_matched_healthy/MC04_2_0754.wav|It requires no big investment
+/data/TORGO/aged_matched_healthy/MC04_2_0823.wav|bunch
+/data/TORGO/aged_matched_healthy/MC04_2_0936.wav|wack
+/data/TORGO/aged_matched_healthy/MC04_1_0573.wav|Barbs gold bracelet was a graduation present
+/data/TORGO/aged_matched_healthy/MC04_2_0978.wav|hold
+/data/TORGO/aged_matched_healthy/MC04_1_0264.wav|written
+/data/TORGO/aged_matched_healthy/MC04_2_0968.wav|whip
+/data/TORGO/aged_matched_healthy/MC04_1_0190.wav|know
+/data/TORGO/aged_matched_healthy/MC04_2_1004.wav|They received all the things they needed
+/data/TORGO/aged_matched_healthy/MC04_1_0099.wav|feet
+/data/TORGO/aged_matched_healthy/MC04_1_0060.wav|sticks
+/data/TORGO/aged_matched_healthy/MC04_1_0502.wav|ham
+/data/TORGO/aged_matched_healthy/MC04_2_0916.wav|owe
+/data/TORGO/aged_matched_healthy/MC04_1_0546.wav|hold
+/data/TORGO/aged_matched_healthy/MC04_2_0781.wav|It was a great meeting
+/data/TORGO/aged_matched_healthy/MC04_1_0449.wav|whisky
+/data/TORGO/aged_matched_healthy/MC04_2_0865.wav|tall
+/data/TORGO/aged_matched_healthy/MC04_1_0537.wav|show
+/data/TORGO/aged_matched_healthy/MC04_1_0193.wav|write
+/data/TORGO/aged_matched_healthy/MC04_2_0677.wav|tea
+/data/TORGO/aged_matched_healthy/MC04_1_0347.wav|Both injuries were to the same leg
+/data/TORGO/aged_matched_healthy/MC04_1_0123.wav|select
+/data/TORGO/aged_matched_healthy/MC04_2_0702.wav|meat
+/data/TORGO/aged_matched_healthy/MC04_2_0950.wav|The snow blew into large drifts
+/data/TORGO/aged_matched_healthy/MC04_1_0208.wav|mut
+/data/TORGO/aged_matched_healthy/MC04_1_0295.wav|part
+/data/TORGO/aged_matched_healthy/MC04_2_0855.wav|rip
+/data/TORGO/aged_matched_healthy/MC04_2_0770.wav|three
+/data/TORGO/aged_matched_healthy/MC04_1_0499.wav|romeo
+/data/TORGO/aged_matched_healthy/MC04_1_0631.wav|Some prefer the traditional steel kind
+/data/TORGO/aged_matched_healthy/MC04_2_1017.wav|hall
+/data/TORGO/aged_matched_healthy/MC04_2_1006.wav|blow
+/data/TORGO/aged_matched_healthy/MC04_2_0737.wav|fender
+/data/TORGO/aged_matched_healthy/MC04_1_0562.wav|chair
+/data/TORGO/aged_matched_healthy/MC04_2_0974.wav|pad
+/data/TORGO/aged_matched_healthy/MC04_2_0882.wav|steak
+/data/TORGO/aged_matched_healthy/MC04_2_0825.wav|hall
+/data/TORGO/aged_matched_healthy/MC04_2_0762.wav|I tell you it was wonderful
+/data/TORGO/aged_matched_healthy/MC04_1_0638.wav|Dont do Charlies dirty dishes
+/data/TORGO/aged_matched_healthy/MC04_2_0925.wav|hall
+/data/TORGO/aged_matched_healthy/MC04_1_0262.wav|When all else fails use force
+/data/TORGO/aged_matched_healthy/MC04_2_0729.wav|seven
+/data/TORGO/aged_matched_healthy/MC04_1_0086.wav|feed
+/data/TORGO/aged_matched_healthy/MC04_1_0647.wav|lip
+/data/TORGO/aged_matched_healthy/MC04_2_0674.wav|nice
+/data/TORGO/aged_matched_healthy/MC04_1_0577.wav|shot
+/data/TORGO/aged_matched_healthy/MC04_2_0831.wav|ease
+/data/TORGO/aged_matched_healthy/MC04_2_0728.wav|sheer
+/data/TORGO/aged_matched_healthy/MC04_1_0619.wav|lake
+/data/TORGO/aged_matched_healthy/MC04_1_0364.wav|fitting
+/data/TORGO/aged_matched_healthy/MC04_2_0792.wav|munch
+/data/TORGO/aged_matched_healthy/MC04_1_0445.wav|Did dad do academic bidding
+/data/TORGO/aged_matched_healthy/MC04_1_0255.wav|I was conscious all the time
+/data/TORGO/aged_matched_healthy/MC04_1_0558.wav|shin
+/data/TORGO/aged_matched_healthy/MC04_2_0891.wav|Range was a vital detail
+/data/TORGO/aged_matched_healthy/MC04_1_0592.wav|gill
+/data/TORGO/aged_matched_healthy/MC04_1_0158.wav|deer
+/data/TORGO/aged_matched_healthy/MC04_2_0860.wav|end
+/data/TORGO/aged_matched_healthy/MC04_1_0223.wav|dot
+/data/TORGO/aged_matched_healthy/MC04_1_0535.wav|sport
+/data/TORGO/aged_matched_healthy/MC04_2_0861.wav|The job also covers a number of other items
+/data/TORGO/aged_matched_healthy/MC04_1_0166.wav|four
+/data/TORGO/aged_matched_healthy/MC04_1_0041.wav|air
+/data/TORGO/aged_matched_healthy/MC04_1_0574.wav|rip
+/data/TORGO/aged_matched_healthy/MC04_1_0131.wav|single
+/data/TORGO/aged_matched_healthy/MC04_2_0941.wav|wine
+/data/TORGO/aged_matched_healthy/MC04_1_0283.wav|The misguided souls have lost their way
+/data/TORGO/aged_matched_healthy/MC04_1_0336.wav|mush
+/data/TORGO/aged_matched_healthy/MC04_1_0220.wav|Why yell or worry over silly items
+/data/TORGO/aged_matched_healthy/MC04_2_0664.wav|fork
+/data/TORGO/aged_matched_healthy/MC04_1_0102.wav|two
+/data/TORGO/aged_matched_healthy/MC04_1_0612.wav|Life is short and precious
+/data/TORGO/aged_matched_healthy/MC04_2_0812.wav|We all sat down and relaxed
+/data/TORGO/aged_matched_healthy/MC04_1_0118.wav|go
+/data/TORGO/aged_matched_healthy/MC04_1_0018.wav|jagged
+/data/TORGO/aged_matched_healthy/MC04_2_0948.wav|docks
+/data/TORGO/aged_matched_healthy/MC04_1_0570.wav|Critical equipment needs proper maintenance
+/data/TORGO/aged_matched_healthy/MC04_2_0732.wav|beast
+/data/TORGO/aged_matched_healthy/MC04_1_0143.wav|bat
+/data/TORGO/aged_matched_healthy/MC04_2_0745.wav|Basketball can be an entertaining sport
+/data/TORGO/aged_matched_healthy/MC04_1_0184.wav|error
+/data/TORGO/aged_matched_healthy/MC04_1_0472.wav|He is definitely a notch above us
+/data/TORGO/aged_matched_healthy/MC04_1_0204.wav|shear
+/data/TORGO/aged_matched_healthy/MC04_1_0305.wav|five
+/data/TORGO/aged_matched_healthy/MC04_1_0487.wav|two
+/data/TORGO/aged_matched_healthy/MC04_2_1002.wav|Theyll never fit me again
+/data/TORGO/aged_matched_healthy/MC04_1_0436.wav|Each one volunteered to jump first
+/data/TORGO/aged_matched_healthy/MC04_2_0885.wav|had
+/data/TORGO/aged_matched_healthy/MC04_1_0339.wav|fat
+/data/TORGO/aged_matched_healthy/MC04_2_0877.wav|heat
+/data/TORGO/aged_matched_healthy/MC04_1_0200.wav|Are your grades higher or lower than Nancys
+/data/TORGO/aged_matched_healthy/MC04_1_0548.wav|thread
+/data/TORGO/aged_matched_healthy/MC04_2_0840.wav|lies
+/data/TORGO/aged_matched_healthy/MC04_1_0216.wav|Both figures would go higher in later years
+/data/TORGO/aged_matched_healthy/MC04_1_0106.wav|swarm
+/data/TORGO/aged_matched_healthy/MC04_1_0639.wav|fort
+/data/TORGO/aged_matched_healthy/MC04_1_0177.wav|coupe
+/data/TORGO/aged_matched_healthy/MC04_1_0637.wav|see
+/data/TORGO/aged_matched_healthy/MC04_1_0081.wav|double
+/data/TORGO/aged_matched_healthy/MC04_1_0129.wav|I feel I can play this weekend
+/data/TORGO/aged_matched_healthy/MC04_1_0514.wav|sketch
+/data/TORGO/aged_matched_healthy/MC04_1_0284.wav|sitting
+/data/TORGO/aged_matched_healthy/MC04_2_0682.wav|renter
+/data/TORGO/aged_matched_healthy/MC04_1_0463.wav|shoot
+/data/TORGO/aged_matched_healthy/MC04_2_0963.wav|row
+/data/TORGO/aged_matched_healthy/MC04_2_0883.wav|seed
+/data/TORGO/aged_matched_healthy/MC04_1_0226.wav|ate
+/data/TORGO/aged_matched_healthy/MC04_1_0012.wav|Dont ask me to carry an oily rag like that
+/data/TORGO/aged_matched_healthy/MC04_2_0946.wav|Challenge each generals intelligence
+/data/TORGO/aged_matched_healthy/MC04_2_0746.wav|seat
+/data/TORGO/aged_matched_healthy/MC04_2_0767.wav|temper
+/data/TORGO/aged_matched_healthy/MC04_1_0365.wav|The little schoolhouse stood empty
+/data/TORGO/aged_matched_healthy/MC04_1_0582.wav|The little girls cut lacy valentines
+/data/TORGO/aged_matched_healthy/MC04_1_0239.wav|Youd be better off taking a cold shower
+/data/TORGO/aged_matched_healthy/MC04_2_0914.wav|Last years gas shortage caused steep
+/data/TORGO/aged_matched_healthy/MC04_1_0033.wav|We have often urged him to walk more and smoke less
+/data/TORGO/aged_matched_healthy/MC04_1_0187.wav|droop
+/data/TORGO/aged_matched_healthy/MC04_1_0387.wav|chop
+/data/TORGO/aged_matched_healthy/MC04_2_0859.wav|chop
+/data/TORGO/aged_matched_healthy/MC04_1_0179.wav|Mother sews yellow gingham aprons
+/data/TORGO/aged_matched_healthy/MC04_1_0327.wav|This is a period of transition for me
+/data/TORGO/aged_matched_healthy/MC04_1_0257.wav|Nothing has been done yet to take advantage of the enabling legislation
+/data/TORGO/aged_matched_healthy/MC04_2_0901.wav|sticks
+/data/TORGO/aged_matched_healthy/MC04_2_0810.wav|We experience distress and frustration obtaining our degrees
+/data/TORGO/aged_matched_healthy/MC04_1_0322.wav|It eventually became a rather proud claim
+/data/TORGO/aged_matched_healthy/MC04_2_0691.wav|bender
+/data/TORGO/aged_matched_healthy/MC04_2_0938.wav|She will order the wine
+/data/TORGO/aged_matched_healthy/MC04_2_0695.wav|code
+/data/TORGO/aged_matched_healthy/MC04_2_0705.wav|At twilight on the twelfth day well have Chablis
+/data/TORGO/aged_matched_healthy/MC04_2_0942.wav|wives
+/data/TORGO/aged_matched_healthy/MC04_1_0511.wav|chop
+/data/TORGO/aged_matched_healthy/MC04_1_0635.wav|In fact our whole defensive unit did a good job
+/data/TORGO/aged_matched_healthy/MC04_2_0818.wav|ail
+/data/TORGO/aged_matched_healthy/MC04_2_0803.wav|There was no confirmation of such massive assaults from independent sources
+/data/TORGO/aged_matched_healthy/MC04_2_1021.wav|Eat your raisins outdoors on the porch steps
+/data/TORGO/aged_matched_healthy/MC04_1_0530.wav|short
+/data/TORGO/aged_matched_healthy/MC04_1_0572.wav|back
+/data/TORGO/aged_matched_healthy/MC04_1_0267.wav|much
+/data/TORGO/aged_matched_healthy/MC04_2_0723.wav|hash
+/data/TORGO/aged_matched_healthy/MC04_1_0446.wav|Then wed really have someplace to go
+/data/TORGO/aged_matched_healthy/MC04_2_0971.wav|sort
+/data/TORGO/aged_matched_healthy/MC04_1_0056.wav|torn
+/data/TORGO/aged_matched_healthy/MC04_1_0581.wav|sheep
+/data/TORGO/aged_matched_healthy/MC04_1_0273.wav|nine
+/data/TORGO/aged_matched_healthy/MC04_2_0951.wav|hail
+/data/TORGO/aged_matched_healthy/MC04_1_0244.wav|Where were you while we were away
+/data/TORGO/aged_matched_healthy/MC04_1_0641.wav|yes
+/data/TORGO/aged_matched_healthy/MC04_2_0814.wav|add
+/data/TORGO/aged_matched_healthy/MC04_1_0181.wav|urgent
+/data/TORGO/aged_matched_healthy/MC04_2_0876.wav|knock
+/data/TORGO/aged_matched_healthy/MC04_1_0185.wav|much
+/data/TORGO/aged_matched_healthy/MC04_2_0871.wav|arm
+/data/TORGO/aged_matched_healthy/MC04_2_0761.wav|four
+/data/TORGO/aged_matched_healthy/MC04_2_0709.wav|guess
+/data/TORGO/aged_matched_healthy/MC04_2_0736.wav|beam
+/data/TORGO/aged_matched_healthy/MC04_1_0595.wav|red
+/data/TORGO/aged_matched_healthy/MC04_1_0358.wav|november
+/data/TORGO/aged_matched_healthy/MC04_1_0176.wav|suit
+/data/TORGO/aged_matched_healthy/MC04_1_0121.wav|read
+/data/TORGO/aged_matched_healthy/MC04_1_0090.wav|goat
+/data/TORGO/aged_matched_healthy/MC04_1_0396.wav|You can ride stagecoach
+/data/TORGO/aged_matched_healthy/MC04_2_0981.wav|born
+/data/TORGO/aged_matched_healthy/MC04_2_0879.wav|bun
+/data/TORGO/aged_matched_healthy/MC04_2_0820.wav|ate
+/data/TORGO/aged_matched_healthy/MC04_1_0360.wav|dart
+/data/TORGO/aged_matched_healthy/MC04_2_0690.wav|seven
+/data/TORGO/aged_matched_healthy/MC04_2_0884.wav|fat
+/data/TORGO/aged_matched_healthy/MC04_1_0055.wav|gadget
+/data/TORGO/aged_matched_healthy/MC04_1_0231.wav|write
+/data/TORGO/aged_matched_healthy/MC04_2_0875.wav|are
+/data/TORGO/aged_matched_healthy/MC04_2_0658.wav|mock
+/data/TORGO/aged_matched_healthy/MC04_1_0145.wav|play
+/data/TORGO/aged_matched_healthy/MC04_1_0529.wav|fork
+/data/TORGO/aged_matched_healthy/MC04_1_0417.wav|He really crucified him he nailed it for a yard loss
+/data/TORGO/aged_matched_healthy/MC04_2_0791.wav|harm
+/data/TORGO/aged_matched_healthy/MC04_1_0399.wav|dead
+/data/TORGO/aged_matched_healthy/MC04_1_0134.wav|pile
+/data/TORGO/aged_matched_healthy/MC04_2_1007.wav|Did you eat yet
+/data/TORGO/aged_matched_healthy/MC04_1_0097.wav|for
+/data/TORGO/aged_matched_healthy/MC04_2_0706.wav|reap
+/data/TORGO/aged_matched_healthy/MC04_1_0075.wav|raid
+/data/TORGO/aged_matched_healthy/MC04_2_0798.wav|fat
+/data/TORGO/aged_matched_healthy/MC04_2_0892.wav|leap
+/data/TORGO/aged_matched_healthy/MC04_2_0991.wav|A few may be hard to find
+/data/TORGO/aged_matched_healthy/MC04_2_0735.wav|member
+/data/TORGO/aged_matched_healthy/MC04_1_0218.wav|Nothing is as offensive as innocence
+/data/TORGO/aged_matched_healthy/MC04_1_0578.wav|I scream to warm up my voice
+/data/TORGO/aged_matched_healthy/MC04_1_0575.wav|Coconut cream pie makes a nice dessert
+/data/TORGO/aged_matched_healthy/MC04_2_0828.wav|The prowler wore a ski mask for disguise
+/data/TORGO/aged_matched_healthy/MC04_2_0764.wav|feet
+/data/TORGO/aged_matched_healthy/MC04_1_0035.wav|feet
+/data/TORGO/aged_matched_healthy/MC04_2_0926.wav|with
+/data/TORGO/aged_matched_healthy/MC04_1_0527.wav|stretch
+/data/TORGO/aged_matched_healthy/MC04_1_0026.wav|When he speaks his voice is just a bit cracked and quivers a trifle
+/data/TORGO/aged_matched_healthy/MC04_1_0066.wav|sheet
+/data/TORGO/aged_matched_healthy/MC04_1_0007.wav|trade
+/data/TORGO/aged_matched_healthy/MC04_2_0837.wav|add
+/data/TORGO/aged_matched_healthy/MC04_1_0415.wav|Although always alone we survive
+/data/TORGO/aged_matched_healthy/MC04_1_0377.wav|He wrapped the package hastily
+/data/TORGO/aged_matched_healthy/MC04_1_0505.wav|Help Greg to pick a peck of potatoes
+/data/TORGO/aged_matched_healthy/MC04_2_1019.wav|Upgrade your status to reflect your wealth
+/data/TORGO/aged_matched_healthy/MC04_1_0412.wav|yes
+/data/TORGO/aged_matched_healthy/MC04_1_0390.wav|yes
+/data/TORGO/aged_matched_healthy/MC04_2_0888.wav|take
+/data/TORGO/aged_matched_healthy/MC04_2_0768.wav|sea
+/data/TORGO/aged_matched_healthy/MC04_1_0164.wav|pot
+/data/TORGO/aged_matched_healthy/MC04_1_0579.wav|sheet
+/data/TORGO/aged_matched_healthy/MC04_1_0228.wav|Will Robin wear a yellow lily
+/data/TORGO/aged_matched_healthy/MC04_2_0821.wav|wax
+/data/TORGO/aged_matched_healthy/MC04_1_0636.wav|The four brothers looked identical
+/data/TORGO/aged_matched_healthy/MC04_2_0716.wav|zero
+/data/TORGO/aged_matched_healthy/MC04_2_0727.wav|me
+/data/TORGO/aged_matched_healthy/MC04_1_0211.wav|He will allow a rare lie
+/data/TORGO/aged_matched_healthy/MC04_2_0666.wav|five
+/data/TORGO/aged_matched_healthy/MC04_1_0617.wav|nice
+/data/TORGO/aged_matched_healthy/MC04_2_0838.wav|cat
+/data/TORGO/aged_matched_healthy/MC04_2_0997.wav|You have to expect a few bad calls
+/data/TORGO/aged_matched_healthy/MC04_1_0247.wav|of
+/data/TORGO/aged_matched_healthy/MC04_1_0466.wav|Beg that guard for one gallon of gas
+/data/TORGO/aged_matched_healthy/MC04_1_0370.wav|I have had my bell rung
+/data/TORGO/aged_matched_healthy/MC04_1_0105.wav|Well he is nearly ninety three years old
+/data/TORGO/aged_matched_healthy/MC04_2_0800.wav|pit
+/data/TORGO/aged_matched_healthy/MC04_1_0418.wav|We bought a brown chair
+/data/TORGO/aged_matched_healthy/MC04_2_0689.wav|Her classical performance gained critical acclaim
+/data/TORGO/aged_matched_healthy/MC04_1_0065.wav|air
+/data/TORGO/aged_matched_healthy/MC04_1_0627.wav|dill
+/data/TORGO/aged_matched_healthy/MC04_2_0751.wav|row
+/data/TORGO/aged_matched_healthy/MC04_1_0173.wav|tile
+/data/TORGO/aged_matched_healthy/MC04_2_0667.wav|woe
+/data/TORGO/aged_matched_healthy/MC04_1_0293.wav|kilo
+/data/TORGO/aged_matched_healthy/MC04_2_0707.wav|neat
+/data/TORGO/aged_matched_healthy/MC04_2_0700.wav|Gold can be found anywhere
+/data/TORGO/aged_matched_healthy/MC04_2_0954.wav|hold
+/data/TORGO/aged_matched_healthy/MC04_1_0157.wav|tie
+/data/TORGO/aged_matched_healthy/MC04_2_0757.wav|Worse luck was still to come
+/data/TORGO/aged_matched_healthy/MC04_1_0522.wav|write
+/data/TORGO/aged_matched_healthy/MC04_1_0144.wav|This was easy for us
+/data/TORGO/aged_matched_healthy/MC04_2_0672.wav|So if anybody solicits by phone make sure you mail the dough to
+/data/TORGO/aged_matched_healthy/MC04_1_0549.wav|Trespassers can be prosecuted and fined
+/data/TORGO/aged_matched_healthy/MC04_1_0500.wav|him
+/data/TORGO/aged_matched_healthy/MC04_2_0969.wav|wax
+/data/TORGO/aged_matched_healthy/MC04_2_0976.wav|had
+/data/TORGO/aged_matched_healthy/MC04_2_0777.wav|pit
+/data/TORGO/aged_matched_healthy/MC04_2_0765.wav|spit
+/data/TORGO/aged_matched_healthy/MC04_2_0748.wav|The sun died at night
+/data/TORGO/aged_matched_healthy/MC04_2_0734.wav|ash
+/data/TORGO/aged_matched_healthy/MC04_2_0809.wav|row
+/data/TORGO/aged_matched_healthy/MC04_1_0408.wav|yankee
+/data/TORGO/aged_matched_healthy/MC04_1_0217.wav|floor
+/data/TORGO/aged_matched_healthy/MC04_2_0986.wav|wide
+/data/TORGO/aged_matched_healthy/MC04_2_0659.wav|ache
+/data/TORGO/aged_matched_healthy/MC04_2_0898.wav|lip
+/data/TORGO/aged_matched_healthy/MC04_1_0155.wav|We gathered shells on the beach
+/data/TORGO/aged_matched_healthy/MC04_2_0669.wav|coat
+/data/TORGO/aged_matched_healthy/MC04_2_0663.wav|seam
+/data/TORGO/aged_matched_healthy/MC04_1_0521.wav|no
+/data/TORGO/aged_matched_healthy/MC04_2_0799.wav|ache
+/data/TORGO/aged_matched_healthy/MC04_2_0953.wav|torn
+/data/TORGO/aged_matched_healthy/MC04_2_0889.wav|This he added brought about petty jealousies and petty personal grievances
+/data/TORGO/aged_matched_healthy/MC04_2_0797.wav|I didnt know where they were coming from
+/data/TORGO/aged_matched_healthy/MC04_1_0416.wav|and
+/data/TORGO/aged_matched_healthy/MC04_2_0868.wav|pill
+/data/TORGO/aged_matched_healthy/MC04_1_0127.wav|Two other cases also were under advisement
+/data/TORGO/aged_matched_healthy/MC04_1_0470.wav|This is a good place though small
+/data/TORGO/aged_matched_healthy/MC04_2_0780.wav|cash
+/data/TORGO/aged_matched_healthy/MC04_1_0475.wav|sink
+/data/TORGO/aged_matched_healthy/MC04_2_0749.wav|nine
+/data/TORGO/aged_matched_healthy/MC04_2_0758.wav|I havent seen that friend for years
+/data/TORGO/aged_matched_healthy/MC04_2_0796.wav|The eastern coast is a place for pure pleasure and excitement
+/data/TORGO/aged_matched_healthy/MC04_1_0206.wav|side
+/data/TORGO/aged_matched_healthy/MC04_1_0413.wav|zulu
+/data/TORGO/aged_matched_healthy/MC04_2_0920.wav|Cable confirmation it said translated
+/data/TORGO/aged_matched_healthy/MC04_2_0726.wav|Those people are much quicker than I am
+/data/TORGO/aged_matched_healthy/MC04_1_0215.wav|wish
+/data/TORGO/aged_matched_healthy/MC04_1_0313.wav|league
+/data/TORGO/aged_matched_healthy/MC04_2_0750.wav|center
+/data/TORGO/aged_matched_healthy/MC04_1_0058.wav|fair
+/data/TORGO/aged_matched_healthy/MC04_1_0400.wav|The pair of shoes was new
+/data/TORGO/aged_matched_healthy/MC04_1_0479.wav|sitter
+/data/TORGO/aged_matched_healthy/MC04_2_0878.wav|steak
+/data/TORGO/aged_matched_healthy/MC04_1_0234.wav|bad
+/data/TORGO/aged_matched_healthy/MC04_1_0543.wav|Ive kept it with me ever since
+/data/TORGO/aged_matched_healthy/MC04_1_0165.wav|near
+/data/TORGO/aged_matched_healthy/MC04_2_0988.wav|heat
+/data/TORGO/aged_matched_healthy/MC04_1_0161.wav|mere
+/data/TORGO/aged_matched_healthy/MC04_1_0485.wav|The owners regularly look for plumbing leaks
+/data/TORGO/aged_matched_healthy/MC04_1_0589.wav|Help celebrate your brothers success
+/data/TORGO/aged_matched_healthy/MC04_1_0482.wav|dress
+/data/TORGO/aged_matched_healthy/MC04_1_0357.wav|Students watched as he got out
+/data/TORGO/aged_matched_healthy/MC04_2_0698.wav|gash
+/data/TORGO/aged_matched_healthy/MC04_1_0580.wav|bend
+/data/TORGO/aged_matched_healthy/MC04_1_0150.wav|sigh
+/data/TORGO/aged_matched_healthy/MC04_2_1023.wav|The family requests that flowers be omitted
+/data/TORGO/aged_matched_healthy/MC04_2_0846.wav|wax
+/data/TORGO/aged_matched_healthy/MC04_2_0945.wav|wipe
+/data/TORGO/aged_matched_healthy/MC04_1_0124.wav|troop
+/data/TORGO/aged_matched_healthy/MC04_1_0547.wav|goose
+/data/TORGO/aged_matched_healthy/MC04_2_0927.wav|hand
+/data/TORGO/aged_matched_healthy/MC04_1_0394.wav|spit
+/data/TORGO/aged_matched_healthy/MC04_2_0864.wav|ache
+/data/TORGO/aged_matched_healthy/MC04_1_0611.wav|She doesnt like to have it hanging around
+/data/TORGO/aged_matched_healthy/MC04_2_0849.wav|ticks
+/data/TORGO/aged_matched_healthy/MC04_2_0933.wav|fold
+/data/TORGO/aged_matched_healthy/MC04_1_0404.wav|walk
+/data/TORGO/aged_matched_healthy/MC04_2_0918.wav|sail
+/data/TORGO/aged_matched_healthy/MC04_2_1022.wav|wart
+/data/TORGO/aged_matched_healthy/MC04_1_0303.wav|witch
+/data/TORGO/aged_matched_healthy/MC04_1_0615.wav|foe
+/data/TORGO/aged_matched_healthy/MC04_1_0278.wav|The dolphins swam around our boat
+/data/TORGO/aged_matched_healthy/MC04_1_0440.wav|We have an excellent team
+/data/TORGO/aged_matched_healthy/MC04_2_0753.wav|I was pleased with the way things went
+/data/TORGO/aged_matched_healthy/MC04_2_0808.wav|The plot is laced with mysterious incidents
+/data/TORGO/aged_matched_healthy/MC04_1_0468.wav|Please open the window quickly
+/data/TORGO/aged_matched_healthy/MC04_1_0308.wav|This is not a program of socialized medicine
+/data/TORGO/aged_matched_healthy/MC04_1_0183.wav|ate
+/data/TORGO/aged_matched_healthy/MC04_1_0212.wav|back
+/data/TORGO/aged_matched_healthy/MC04_1_0199.wav|group
+/data/TORGO/aged_matched_healthy/MC04_2_0684.wav|It was very popular with our fans
+/data/TORGO/aged_matched_healthy/MC04_2_0915.wav|Last years gas shortage caused steep price increases
+/data/TORGO/aged_matched_healthy/MC04_2_0715.wav|sticks
+/data/TORGO/aged_matched_healthy/MC04_2_0911.wav|The staff deserves a lot of credit working down here under real obstacles
+/data/TORGO/aged_matched_healthy/MC04_1_0373.wav|witty
+/data/TORGO/aged_matched_healthy/MC04_1_0269.wav|him
+/data/TORGO/aged_matched_healthy/MC04_1_0587.wav|cakes
+/data/TORGO/aged_matched_healthy/MC04_1_0457.wav|nest
+/data/TORGO/aged_matched_healthy/MC04_1_0495.wav|wicker
+/data/TORGO/aged_matched_healthy/MC04_2_0752.wav|it
+/data/TORGO/aged_matched_healthy/MC04_2_1000.wav|cake
+/data/TORGO/aged_matched_healthy/MC04_2_0660.wav|six
+/data/TORGO/aged_matched_healthy/MC04_1_0256.wav|area
+/data/TORGO/aged_matched_healthy/MC04_1_0629.wav|fed
+/data/TORGO/aged_matched_healthy/MC04_1_0237.wav|suit
+/data/TORGO/aged_matched_healthy/MC04_1_0260.wav|tell
+/data/TORGO/aged_matched_healthy/MC04_1_0371.wav|hat
+/data/TORGO/aged_matched_healthy/MC04_2_0886.wav|Even a simple vocabulary contains symbols
+/data/TORGO/dysarthric/M04_2_0268.wav|charlie
+/data/TORGO/dysarthric/M04_2_0261.wav|toot
+/data/TORGO/dysarthric/M04_2_0096.wav|glow
+/data/TORGO/dysarthric/M04_2_0283.wav|it was a good win for us
+/data/TORGO/dysarthric/M04_2_0075.wav|swore
+/data/TORGO/dysarthric/M04_2_0149.wav|were
+/data/TORGO/dysarthric/M04_2_0272.wav|yes
+/data/TORGO/dysarthric/M04_1_0121.wav|fair
+/data/TORGO/dysarthric/M04_1_0101.wav|feet
+/data/TORGO/dysarthric/M04_1_0037.wav|dagger
+/data/TORGO/dysarthric/M04_1_0018.wav|trade
+/data/TORGO/dysarthric/M04_2_0085.wav|car
+/data/TORGO/dysarthric/M04_1_0052.wav|he dresses himself in an ancient black frock coat
+/data/TORGO/dysarthric/M04_2_0063.wav|for
+/data/TORGO/dysarthric/M04_2_0203.wav|prior
+/data/TORGO/dysarthric/M04_2_0040.wav|read
+/data/TORGO/dysarthric/M04_2_0009.wav|slip
+/data/TORGO/dysarthric/M04_1_0047.wav|yet he still thinks as swiftly as ever
+/data/TORGO/dysarthric/M04_2_0036.wav|knew
+/data/TORGO/dysarthric/M04_2_0244.wav|fear
+/data/TORGO/dysarthric/M04_1_0071.wav|bat
+/data/TORGO/dysarthric/M04_2_0296.wav|vat
+/data/TORGO/dysarthric/M04_2_0033.wav|except in the winter when the ooze or snow or ice prevents
+/data/TORGO/dysarthric/M04_2_0015.wav|up
+/data/TORGO/dysarthric/M04_1_0043.wav|beta
+/data/TORGO/dysarthric/M04_1_0048.wav|warm
+/data/TORGO/dysarthric/M04_2_0135.wav|though
+/data/TORGO/dysarthric/M04_2_0021.wav|yes
+/data/TORGO/dysarthric/M04_2_0029.wav|when he speaks his voice is just a bit cracked and quivers a trifle
+/data/TORGO/dysarthric/M04_2_0199.wav|hear
+/data/TORGO/dysarthric/M04_2_0280.wav|hat
+/data/TORGO/dysarthric/M04_2_0245.wav|droop
+/data/TORGO/dysarthric/M04_2_0102.wav|horn
+/data/TORGO/dysarthric/M04_2_0172.wav|my sister made the flowered curtains
+/data/TORGO/dysarthric/M04_1_0029.wav|share
+/data/TORGO/dysarthric/M04_1_0072.wav|torn
+/data/TORGO/dysarthric/M04_2_0260.wav|sleep
+/data/TORGO/dysarthric/M04_2_0121.wav|warm
+/data/TORGO/dysarthric/M04_2_0078.wav|store
+/data/TORGO/dysarthric/M04_2_0016.wav|jacket
+/data/TORGO/dysarthric/M04_2_0159.wav|pad
+/data/TORGO/dysarthric/M04_2_0079.wav|feed
+/data/TORGO/dysarthric/M04_2_0007.wav|grandfather likes to be modern in his language
+/data/TORGO/dysarthric/M04_2_0263.wav|write
+/data/TORGO/dysarthric/M04_2_0193.wav|delta
+/data/TORGO/dysarthric/M04_1_0040.wav|grandfather likes to be modern in his language
+/data/TORGO/dysarthric/M04_2_0150.wav|were
+/data/TORGO/dysarthric/M04_1_0028.wav|trait
+/data/TORGO/dysarthric/M04_1_0067.wav|rate
+/data/TORGO/dysarthric/M04_2_0119.wav|chair
+/data/TORGO/dysarthric/M04_2_0281.wav|aluminum silverware can often be flimsy
+/data/TORGO/dysarthric/M04_2_0117.wav|knew
+/data/TORGO/dysarthric/M04_2_0130.wav|whoop
+/data/TORGO/dysarthric/M04_2_0231.wav|the train approached the depot slowly
+/data/TORGO/dysarthric/M04_2_0032.wav|dont ask me to carry an oily rag like that
+/data/TORGO/dysarthric/M04_2_0060.wav|he slowly takes a short walk in the open air each day
+/data/TORGO/dysarthric/M04_2_0256.wav|coupe
+/data/TORGO/dysarthric/M04_2_0251.wav|select
+/data/TORGO/dysarthric/M04_1_0114.wav|bubble
+/data/TORGO/dysarthric/M04_2_0255.wav|youre used to being on the field
+/data/TORGO/dysarthric/M04_2_0139.wav|bad
+/data/TORGO/dysarthric/M04_2_0190.wav|where were you while we were away
+/data/TORGO/dysarthric/M04_1_0039.wav|up
+/data/TORGO/dysarthric/M04_2_0092.wav|gadget
+/data/TORGO/dysarthric/M04_2_0148.wav|pile
+/data/TORGO/dysarthric/M04_2_0204.wav|slip
+/data/TORGO/dysarthric/M04_2_0147.wav|two other cases also were under advisement
+/data/TORGO/dysarthric/M04_1_0068.wav|double
+/data/TORGO/dysarthric/M04_1_0069.wav|pat
+/data/TORGO/dysarthric/M04_2_0144.wav|bad
+/data/TORGO/dysarthric/M04_2_0271.wav|tile
+/data/TORGO/dysarthric/M04_2_0044.wav|yet he still thinks as swiftly as ever
+/data/TORGO/dysarthric/M04_2_0266.wav|fate
+/data/TORGO/dysarthric/M04_1_0092.wav|lead
+/data/TORGO/dysarthric/M04_2_0062.wav|the
+/data/TORGO/dysarthric/M04_1_0074.wav|left
+/data/TORGO/dysarthric/M04_1_0057.wav|sticks
+/data/TORGO/dysarthric/M04_2_0226.wav|youd be better off taking a cold shower
+/data/TORGO/dysarthric/M04_2_0220.wav|jane may earn more money by working hard
+/data/TORGO/dysarthric/M04_2_0127.wav|lead
+/data/TORGO/dysarthric/M04_2_0234.wav|ate
+/data/TORGO/dysarthric/M04_2_0212.wav|urgent
+/data/TORGO/dysarthric/M04_2_0100.wav|twice each day he plays skillfully and with zest upon our small organ
+/data/TORGO/dysarthric/M04_2_0019.wav|sheet
+/data/TORGO/dysarthric/M04_2_0178.wav|gnaw
+/data/TORGO/dysarthric/M04_1_0042.wav|chair
+/data/TORGO/dysarthric/M04_1_0022.wav|beat
+/data/TORGO/dysarthric/M04_1_0103.wav|the
+/data/TORGO/dysarthric/M04_2_0050.wav|feed
+/data/TORGO/dysarthric/M04_2_0034.wav|down
+/data/TORGO/dysarthric/M04_1_0032.wav|stubble
+/data/TORGO/dysarthric/M04_1_0013.wav|knew
+/data/TORGO/dysarthric/M04_2_0114.wav|trait
+/data/TORGO/dysarthric/M04_2_0254.wav|mere
+/data/TORGO/dysarthric/M04_1_0021.wav|goat
+/data/TORGO/dysarthric/M04_2_0136.wav|tie
+/data/TORGO/dysarthric/M04_2_0008.wav|sticks
+/data/TORGO/dysarthric/M04_2_0081.wav|born
+/data/TORGO/dysarthric/M04_2_0257.wav|pot
+/data/TORGO/dysarthric/M04_1_0061.wav|chair
+/data/TORGO/dysarthric/M04_1_0014.wav|knee
+/data/TORGO/dysarthric/M04_2_0098.wav|well he is nearly ninety three years old
+/data/TORGO/dysarthric/M04_2_0232.wav|suit
+/data/TORGO/dysarthric/M04_2_0123.wav|no
+/data/TORGO/dysarthric/M04_2_0048.wav|a long flowing beard clings to his chin
+/data/TORGO/dysarthric/M04_2_0229.wav|play
+/data/TORGO/dysarthric/M04_2_0049.wav|feed
+/data/TORGO/dysarthric/M04_2_0134.wav|sprinkle
+/data/TORGO/dysarthric/M04_1_0025.wav|rave
+/data/TORGO/dysarthric/M04_2_0164.wav|slay
+/data/TORGO/dysarthric/M04_1_0096.wav|read
+/data/TORGO/dysarthric/M04_1_0109.wav|horn
+/data/TORGO/dysarthric/M04_2_0238.wav|loop
+/data/TORGO/dysarthric/M04_1_0106.wav|usually minus several buttons
+/data/TORGO/dysarthric/M04_2_0233.wav|bat
+/data/TORGO/dysarthric/M04_2_0052.wav|usually minus several buttons
+/data/TORGO/dysarthric/M04_2_0185.wav|briar
+/data/TORGO/dysarthric/M04_2_0198.wav|light
+/data/TORGO/dysarthric/M04_2_0022.wav|fee
+/data/TORGO/dysarthric/M04_2_0160.wav|are your grades higher or lower than nancys
+/data/TORGO/dysarthric/M04_2_0210.wav|knew
+/data/TORGO/dysarthric/M04_2_0187.wav|why yell or worry over silly items
+/data/TORGO/dysarthric/M04_1_0084.wav|you wished to know all about my grandfather
+/data/TORGO/dysarthric/M04_2_0235.wav|troop
+/data/TORGO/dysarthric/M04_1_0110.wav|for
+/data/TORGO/dysarthric/M04_2_0128.wav|dagger
+/data/TORGO/dysarthric/M04_2_0228.wav|side
+/data/TORGO/dysarthric/M04_2_0162.wav|sigh
+/data/TORGO/dysarthric/M04_2_0241.wav|shear
+/data/TORGO/dysarthric/M04_2_0201.wav|here
+/data/TORGO/dysarthric/M04_2_0282.wav|it also provides for funds to clear slums and help colleges build dormitories
+/data/TORGO/dysarthric/M04_2_0236.wav|their house is grey and white
+/data/TORGO/dysarthric/M04_1_0075.wav|feed
+/data/TORGO/dysarthric/M04_1_0055.wav|read
+/data/TORGO/dysarthric/M04_2_0072.wav|floor
+/data/TORGO/dysarthric/M04_2_0084.wav|tip
+/data/TORGO/dysarthric/M04_2_0188.wav|no
+/data/TORGO/dysarthric/M04_1_0098.wav|sheet
+/data/TORGO/dysarthric/M04_1_0059.wav|gadget
+/data/TORGO/dysarthric/M04_2_0293.wav|fat
+/data/TORGO/dysarthric/M04_2_0058.wav|share
+/data/TORGO/dysarthric/M04_2_0267.wav|know
+/data/TORGO/dysarthric/M04_2_0039.wav|i can
+/data/TORGO/dysarthric/M04_2_0122.wav|bat
+/data/TORGO/dysarthric/M04_2_0179.wav|cheer
+/data/TORGO/dysarthric/M04_1_0112.wav|swarm
+/data/TORGO/dysarthric/M04_2_0111.wav|pat
+/data/TORGO/dysarthric/M04_2_0189.wav|bright sunshine shimmers on the ocean
+/data/TORGO/dysarthric/M04_1_0091.wav|feet
+/data/TORGO/dysarthric/M04_2_0026.wav|stubble
+/data/TORGO/dysarthric/M04_2_0270.wav|tile
+/data/TORGO/dysarthric/M04_2_0120.wav|bug
+/data/TORGO/dysarthric/M04_2_0214.wav|of
+/data/TORGO/dysarthric/M04_2_0137.wav|back
+/data/TORGO/dysarthric/M04_1_0119.wav|race
+/data/TORGO/dysarthric/M04_1_0079.wav|beat
+/data/TORGO/dysarthric/M04_2_0175.wav|explore
+/data/TORGO/dysarthric/M04_2_0208.wav|all the big baseball players get traded
+/data/TORGO/dysarthric/M04_2_0023.wav|swarm
+/data/TORGO/dysarthric/M04_1_0063.wav|except in the winter when the ooze or snow or ice prevents
+/data/TORGO/dysarthric/M04_1_0064.wav|he slowly takes a short walk in the open air each day
+/data/TORGO/dysarthric/M04_1_0024.wav|fee
+/data/TORGO/dysarthric/M04_2_0042.wav|rate
+/data/TORGO/dysarthric/M04_2_0125.wav|know
+/data/TORGO/dysarthric/M04_2_0104.wav|two
+/data/TORGO/dysarthric/M04_2_0145.wav|three
+/data/TORGO/dysarthric/M04_1_0093.wav|when when
+/data/TORGO/dysarthric/M04_2_0166.wav|witch
+/data/TORGO/dysarthric/M04_2_0176.wav|galore
+/data/TORGO/dysarthric/M04_2_0087.wav|swarm
+/data/TORGO/dysarthric/M04_1_0124.wav|no
+/data/TORGO/dysarthric/M04_2_0295.wav|there is a treehouse up above
+/data/TORGO/dysarthric/M04_1_0017.wav|jacket
+/data/TORGO/dysarthric/M04_2_0167.wav|lip
+/data/TORGO/dysarthric/M04_2_0180.wav|write
+/data/TORGO/dysarthric/M04_2_0131.wav|wish
+/data/TORGO/dysarthric/M04_2_0043.wav|meat
+/data/TORGO/dysarthric/M04_2_0224.wav|rocks
+/data/TORGO/dysarthric/M04_1_0118.wav|yes
+/data/TORGO/dysarthric/M04_2_0249.wav|single
+/data/TORGO/dysarthric/M04_2_0215.wav|ate
+/data/TORGO/dysarthric/M04_2_0265.wav|shoot
+/data/TORGO/dysarthric/M04_2_0184.wav|briar
+/data/TORGO/dysarthric/M04_2_0262.wav|pat
+/data/TORGO/dysarthric/M04_2_0107.wav|raid
+/data/TORGO/dysarthric/M04_2_0057.wav|range
+/data/TORGO/dysarthric/M04_1_0016.wav|meat
+/data/TORGO/dysarthric/M04_2_0213.wav|urgent
+/data/TORGO/dysarthric/M04_2_0091.wav|fair
+/data/TORGO/dysarthric/M04_1_0113.wav|glow
+/data/TORGO/dysarthric/M04_2_0297.wav|bit
+/data/TORGO/dysarthric/M04_1_0010.wav|store
+/data/TORGO/dysarthric/M04_1_0045.wav|air
+/data/TORGO/dysarthric/M04_1_0026.wav|bug
+/data/TORGO/dysarthric/M04_2_0273.wav|forward
+/data/TORGO/dysarthric/M04_2_0157.wav|she is thinner than i am
+/data/TORGO/dysarthric/M04_2_0221.wav|sigh
+/data/TORGO/dysarthric/M04_1_0051.wav|knew
+/data/TORGO/dysarthric/M04_2_0142.wav|floor
+/data/TORGO/dysarthric/M04_1_0122.wav|tip
+/data/TORGO/dysarthric/M04_1_0107.wav|two
+/data/TORGO/dysarthric/M04_1_0102.wav|slip
+/data/TORGO/dysarthric/M04_2_0061.wav|grow
+/data/TORGO/dysarthric/M04_2_0018.wav|go
+/data/TORGO/dysarthric/M04_1_0083.wav|jagged
+/data/TORGO/dysarthric/M04_2_0012.wav|feet
+/data/TORGO/dysarthric/M04_1_0078.wav|air
+/data/TORGO/dysarthric/M04_2_0101.wav|horn
+/data/TORGO/dysarthric/M04_2_0083.wav|he dresses himself in an ancient black frock coat
+/data/TORGO/dysarthric/M04_2_0138.wav|back
+/data/TORGO/dysarthric/M04_1_0020.wav|well he is nearly ninety three years old
+/data/TORGO/dysarthric/M04_2_0153.wav|one validated acts of school districts
+/data/TORGO/dysarthric/M04_2_0047.wav|train
+/data/TORGO/dysarthric/M04_1_0127.wav|train
+/data/TORGO/dysarthric/M04_2_0218.wav|air
+/data/TORGO/dysarthric/M04_2_0070.wav|feet
+/data/TORGO/dysarthric/M04_1_0030.wav|range
+/data/TORGO/dysarthric/M04_2_0066.wav|beat
+/data/TORGO/dysarthric/M04_2_0054.wav|bit
+/data/TORGO/dysarthric/M04_2_0250.wav|four
+/data/TORGO/dysarthric/M04_1_0100.wav|car
+/data/TORGO/dysarthric/M04_2_0077.wav|you wished to know all about my grandfather
+/data/TORGO/dysarthric/M04_2_0095.wav|beta
+/data/TORGO/dysarthric/M04_1_0085.wav|know
+/data/TORGO/dysarthric/M04_2_0194.wav|if you destroy confidence in banks you do something to the economy he said
+/data/TORGO/dysarthric/M04_2_0196.wav|menu
+/data/TORGO/dysarthric/M04_2_0163.wav|snoop
+/data/TORGO/dysarthric/M04_2_0097.wav|air
+/data/TORGO/dysarthric/M04_2_0183.wav|he will allow a rare lie
+/data/TORGO/dysarthric/M04_2_0206.wav|i scrubbed the floors thoroughly
+/data/TORGO/dysarthric/M04_1_0105.wav|usually min min
+/data/TORGO/dysarthric/M04_1_0082.wav|a long flowing beard clings to his chin
+/data/TORGO/dysarthric/M04_2_0290.wav|pitting
+/data/TORGO/dysarthric/M04_2_0103.wav|torn
+/data/TORGO/dysarthric/M04_2_0195.wav|suit
+/data/TORGO/dysarthric/M04_2_0264.wav|the humidity is overwhelming there
+/data/TORGO/dysarthric/M04_2_0093.wav|but he always answers banana oil
+/data/TORGO/dysarthric/M04_2_0240.wav|deer
+/data/TORGO/dysarthric/M04_2_0080.wav|goat
+/data/TORGO/dysarthric/M04_2_0222.wav|rocks
+/data/TORGO/dysarthric/M04_2_0133.wav|they carried me off on the stretcher
+/data/TORGO/dysarthric/M04_2_0287.wav|spit
+/data/TORGO/dysarthric/M04_2_0090.wav|warm
+/data/TORGO/dysarthric/M04_1_0080.wav|down
+/data/TORGO/dysarthric/M04_2_0059.wav|chair
+/data/TORGO/dysarthric/M04_2_0186.wav|just one side got wet
+/data/TORGO/dysarthric/M04_2_0076.wav|air
+/data/TORGO/dysarthric/M04_2_0202.wav|everything went real smooth the sheriff said
+/data/TORGO/dysarthric/M04_2_0197.wav|error
+/data/TORGO/dysarthric/M04_2_0274.wav|the islands are sparsely populated
+/data/TORGO/dysarthric/M04_1_0012.wav|twice each day he plays skillfully and with zest upon our small organ
+/data/TORGO/dysarthric/M04_2_0205.wav|rock
+/data/TORGO/dysarthric/M04_1_0086.wav|born
+/data/TORGO/dysarthric/M04_2_0086.wav|read
+/data/TORGO/dysarthric/M04_2_0182.wav|he will allow a rare lie
+/data/TORGO/dysarthric/M04_2_0230.wav|cycle
+/data/TORGO/dysarthric/M04_2_0200.wav|sigh
+/data/TORGO/dysarthric/M04_2_0252.wav|dot
+/data/TORGO/dysarthric/M04_1_0104.wav|feed
+/data/TORGO/dysarthric/M04_1_0097.wav|swarm
+/data/TORGO/dysarthric/M04_2_0239.wav|jungle
+/data/TORGO/dysarthric/M04_2_0151.wav|were
+/data/TORGO/dysarthric/M04_2_0132.wav|boot
+/data/TORGO/dysarthric/M04_2_0143.wav|near
+/data/TORGO/dysarthric/M04_1_0087.wav|raid
+/data/TORGO/dysarthric/M04_2_0171.wav|slip
+/data/TORGO/dysarthric/M04_2_0285.wav|i expect well bounce back this week
+/data/TORGO/dysarthric/M04_2_0298.wav|both injuries were to the same leg
+/data/TORGO/dysarthric/M04_2_0247.wav|innocence
+/data/TORGO/dysarthric/M04_2_0286.wav|she wore warm fleecy woolen overalls
+/data/TORGO/dysarthric/M04_2_0284.wav|kitten
+/data/TORGO/dysarthric/M04_1_0117.wav|warm
+/data/TORGO/dysarthric/M04_2_0010.wav|left
+/data/TORGO/dysarthric/M04_1_0062.wav|grow
+/data/TORGO/dysarthric/M04_2_0169.wav|area
+/data/TORGO/dysarthric/M04_2_0223.wav|rocks
+/data/TORGO/dysarthric/M04_2_0006.wav|jagged
+/data/TORGO/dysarthric/M04_2_0055.wav|race
+/data/TORGO/dysarthric/M04_1_0076.wav|dont ask me to carry an oily rag like that
+/data/TORGO/dysarthric/M04_1_0073.wav|dark
+/data/TORGO/dysarthric/M04_2_0269.wav|thigh
+/data/TORGO/dysarthric/M04_1_0036.wav|the quick brown fox jumps over the lazy dog
+/data/TORGO/dysarthric/M04_2_0209.wav|mut
+/data/TORGO/dysarthric/M04_2_0291.wav|nothing has been done yet to take advantage of the enabling legislation
+/data/TORGO/dysarthric/M04_2_0242.wav|i looked up and noticed two old men
+/data/TORGO/dysarthric/M04_2_0094.wav|double
+/data/TORGO/dysarthric/M04_2_0073.wav|dark
+/data/TORGO/dysarthric/M04_2_0276.wav|papa
+/data/TORGO/dysarthric/M04_2_0116.wav|bubble
+/data/TORGO/dysarthric/M04_2_0192.wav|white
+/data/TORGO/dysarthric/M04_2_0174.wav|we gathered shells on the beach
+/data/TORGO/dysarthric/M04_2_0161.wav|group
+/data/TORGO/dysarthric/M04_2_0253.wav|this was easy for us
+/data/TORGO/dysarthric/M04_2_0038.wav|the quick brown fox jumps over the lazy dog
+/data/TORGO/dysarthric/M04_1_0090.wav|bit
+/data/TORGO/dysarthric/M04_2_0152.wav|steer
+/data/TORGO/dysarthric/M04_1_0027.wav|floor
+/data/TORGO/dysarthric/M04_1_0050.wav|swore
+/data/TORGO/dysarthric/M04_2_0041.wav|trade
+/data/TORGO/dysarthric/M04_1_0058.wav|go
+/data/TORGO/dysarthric/M04_1_0077.wav|but he always answers banana oil
+/data/TORGO/dysarthric/M04_2_0227.wav|side
+/data/TORGO/dysarthric/M04_1_0094.wav|when he speaks his voice is just a bit cracked and quivers a trifle
+/data/TORGO/dysarthric/M04_2_0216.wav|mother sews yellow gingham aprons
+/data/TORGO/dysarthric/M04_2_0113.wav|knee
+/data/TORGO/dysarthric/M04_2_0112.wav|beat
+/data/TORGO/dysarthric/M04_2_0074.wav|rave
