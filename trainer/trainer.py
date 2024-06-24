@@ -194,3 +194,4 @@ class Trainer(BaseTrainer):
             val_logs = {k: self.gather(v).mean() for k, v in val_logs.items()}
         val_logs = {k: v.item() if hasattr(v, 'item') else v for k, v in val_logs.items()}
         return val_logs
+
