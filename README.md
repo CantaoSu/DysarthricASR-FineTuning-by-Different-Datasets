@@ -38,11 +38,8 @@ pip install -r requirements.txt
     
 <a name = "train" ></a>
 ### Train
-1. Prepare datasets
-
-
-2. Configure the [config.toml](config.toml) file: Pay attention to the <b>pretrained_path</b> argument, it loads "facebook/wav2vec2-base" pre-trained model from Facebook by default. 
-3. Run
+1. Configure the [config.toml](config.toml) file: Pay attention to the <b>pretrained_path</b> argument, it loads "facebook/wav2vec2-base" pre-trained model from Facebook by default. 
+2. Run
     - Start training from scratch:
         ```
         python train.py -c config.toml
@@ -58,7 +55,7 @@ pip install -r requirements.txt
 
 <a name = "inference" ></a>
 ### Inference
-We provide an inference script that can transcribe a given audio file or even a list of audio files. Please take a look at the arguments below, especially the ```-f TEST_FILEPATH``` and the ```-s HUGGINGFACE_FOLDER``` arguments:
+An inference script that can transcribe a given audio file or even a list of audio files is provided. Please take a look at the arguments below, especially the ```-f TEST_FILEPATH``` and the ```-s HUGGINGFACE_FOLDER``` arguments:
 ```cmd
 usage: inference.py [-h] -f TEST_FILEPATH [-s HUGGINGFACE_FOLDER] [-m MODEL_PATH] [-d DEVICE_ID]
 
