@@ -16,3 +16,4 @@ class Metric:
 
         wer = self.wer_metric.compute(predictions=pred_strs, references=label_strs)
         return wer
+
