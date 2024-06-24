@@ -11,4 +11,4 @@ class TensorboardWriter:
     def update(self, step, mode, scores : Dict[str, float]) -> None:
         for k, v in scores.items():
             self.writer.add_scalar(mode + '/' + k, v, step)
-        
+
